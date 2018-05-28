@@ -1,0 +1,1888 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ABSTRACT_CONTROL_MODEL::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	134;"	d	line:134
+ABSTRACT_STATE::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	148;"	d	line:148
+ADC_REF_VDD_VDD_X::0b11110011	E:\DAQ projekt\PIC18\usb\cdc-demo.c	150;"	d	line:150	file:
+ADDRESS_STATE::0x10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	418;"	d	line:418
+ADR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	313;"	m	line:313	struct:__BDT::<anonymous>
+ADRH	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	307;"	m	line:307	struct:__BDT::<anonymous>
+ADRL	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	306;"	m	line:306	struct:__BDT::<anonymous>
+ADR_PENDING_STATE::0x08	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	415;"	d	line:415
+ATTACHED_STATE::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	400;"	d	line:400
+BC8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	271;"	m	line:271	struct:_BD_STAT::<anonymous>
+BC8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	283;"	m	line:283	struct:_BD_STAT::<anonymous>
+BC9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	272;"	m	line:272	struct:_BD_STAT::<anonymous>
+BC9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	284;"	m	line:284	struct:_BD_STAT::<anonymous>
+BD::(ep,dir,pp)((8*ep)+(4*dir))	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1852;"	d	line:1852
+BD::(ep,dir,pp)(4*(4*ep+2*dir+((ep	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2083;"	d	line:2083
+BD::(ep,dir,pp)(4*(4*ep+2*dir+pp))	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2006;"	d	line:2006
+BD::(ep,dir,pp)(4*(ep+dir+(((ep==0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1924;"	d	line:1924
+BD::(ep,dir,pp)(8*(4*ep+2*dir+pp))	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2008;"	d	line:2008
+BDT	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	148;"	v	line:148
+BDT	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	150;"	v	line:150
+BDT	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	152;"	v	line:152
+BDT	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	154;"	v	line:154
+BDT_ENTRY	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	317;"	t	line:317
+BD_STAT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	297;"	t	line:297
+BOOL	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	48;"	t	line:48
+BSTALL	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	273;"	m	line:273	struct:_BD_STAT::<anonymous>
+BYTE	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	58;"	t	line:58
+BYTE_BITS	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	103;"	t	line:103
+BYTE_VAL	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	103;"	t	line:103
+BaudRateGen	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	127;"	v	line:127
+BlinkUSBStatus	E:\DAQ projekt\PIC18\common\piccolo_usb.c	317;"	f	line:317	signature:(void)
+BlinkUSBStatus	E:\DAQ projekt\PIC18\common\piccolo_usb.c	37;"	p	line:37	file:	signature:(void)
+BlinkUSBStatus	E:\DAQ projekt\PIC18\include\piccolo_usb.h	38;"	p	line:38	signature:(void)
+BlinkUSBStatus_enabled	E:\DAQ projekt\PIC18\common\piccolo_usb.c	30;"	v	line:30
+Blinking_at_start::1	E:\DAQ projekt\PIC18\include\piccolo_config.h	52;"	d	line:52
+BothEP0OutUOWNsSet	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	129;"	v	line:129
+Buffercp	E:\DAQ projekt\PIC18\common\piccolo_usb.c	27;"	v	line:27
+CARRIER_CONTROL	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	576;"	m	line:576	struct:_CONTROL_SIGNAL_BITMAP::<anonymous>
+CDCDataInHandle	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	123;"	v	line:123
+CDCDataOutHandle	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	122;"	v	line:122
+CDCInitEP	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	642;"	p	line:642	signature:(void)
+CDCInitEP	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	288;"	f	line:288	signature:(void)
+CDCSetBaudRate::(baudRate){line_coding.dwDTERa	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	254;"	d	line:254
+CDCSetCharacterFormat::(charFormat){line_coding.bChar	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	292;"	d	line:292
+CDCSetDataSize::(dataBits){line_coding.bDataBi	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	375;"	d	line:375
+CDCSetLineCoding::(baud,format,parity,dataSize){	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	426;"	d	line:426
+CDCSetParity::(parityType){line_coding.bPari	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	335;"	d	line:335
+CDCTxService	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	647;"	p	line:647	signature:(void)
+CDCTxService	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	701;"	f	line:701	signature:(void)
+CDC_COMM_EP::2	E:\DAQ projekt\PIC18\include\usb_config.h	131;"	d	line:131
+CDC_COMM_INTF_ID::0x0	E:\DAQ projekt\PIC18\include\usb_config.h	130;"	d	line:130
+CDC_COMM_IN_EP_SIZE::8	E:\DAQ projekt\PIC18\include\usb_config.h	132;"	d	line:132
+CDC_DATA_EP::3	E:\DAQ projekt\PIC18\include\usb_config.h	135;"	d	line:135
+CDC_DATA_INTF_ID::0x01	E:\DAQ projekt\PIC18\include\usb_config.h	134;"	d	line:134
+CDC_DATA_IN_EP_SIZE::64	E:\DAQ projekt\PIC18\include\usb_config.h	137;"	d	line:137
+CDC_DATA_OUT_EP_SIZE::64	E:\DAQ projekt\PIC18\include\usb_config.h	136;"	d	line:136
+CDC_DEVICE::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	128;"	d	line:128
+CDC_H	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	98;"	d	line:98
+CDC_NOTICE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	626;"	t	line:626
+CDC_TX_BUSY::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	171;"	d	line:171
+CDC_TX_BUSY_ZLP::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	172;"	d	line:172
+CDC_TX_COMPLETING::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	173;"	d	line:173
+CDC_TX_READY::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	170;"	d	line:170
+CHAR	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	62;"	t	line:62
+CHAR8	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	70;"	t	line:70
+CLASS::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	570;"	d	line:570
+CLEAR_COMM_FEATURE::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	112;"	d	line:112
+CLOCK_FREQ::48000000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	84;"	d	line:84
+CLR_FEATURE::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	375;"	d	line:375
+CNT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	305;"	m	line:305	struct:__BDT::<anonymous>
+COMM_INTF::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	131;"	d	line:131
+CONFIGURED_STATE::0x20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	424;"	d	line:424
+CONFIGURE_DTR::(a)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	188;"	d	line:188
+CONFIGURE_DTR::(a)UART_DTR=a;	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	185;"	d	line:185
+CONFIGURE_RTS::(a)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	187;"	d	line:187
+CONFIGURE_RTS::(a)UART_RTS=a;	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	184;"	d	line:184
+CONFIG_AN10_AS_ANALOG::{TRISBbits.TRISB4=1;ANSELHbits	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	192;"	d	line:192
+CONFIG_AN11_AS_ANALOG::{TRISBbits.TRISB5=1;ANSELHbits	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	193;"	d	line:193
+CONFIG_AN3_AS_ANALOG::{TRISAbits.TRISA4=1;ANSELbits.	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	185;"	d	line:185
+CONFIG_AN4_AS_ANALOG::{TRISCbits.TRISC0=1;ANSELbits.	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	186;"	d	line:186
+CONFIG_AN5_AS_ANALOG::{TRISCbits.TRISC1=1;ANSELbits.	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	187;"	d	line:187
+CONFIG_AN6_AS_ANALOG::{TRISCbits.TRISC2=1;ANSELbits.	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	188;"	d	line:188
+CONFIG_AN7_AS_ANALOG::{TRISCbits.TRISC3=1;ANSELbits.	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	189;"	d	line:189
+CONFIG_AN8_AS_ANALOG::{TRISCbits.TRISC6=1;ANSELHbits	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	190;"	d	line:190
+CONFIG_AN9_AS_ANALOG::{TRISCbits.TRISC7=1;ANSELHbits	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	191;"	d	line:191
+CONFIG_RA4_AS_DIGITAL_INPUT::{ANSELbits.ANS3=0;TRISAbits.TR	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	196;"	d	line:196
+CONFIG_RA4_AS_DIGITAL_OUTPUT::{ANSELbits.ANS3=0;TRISAbits.TR	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	197;"	d	line:197
+CONFIG_RA5_AS_DIGITAL_INPUT::TRISAbits.TRISA5=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	198;"	d	line:198
+CONFIG_RA5_AS_DIGITAL_OUTPUT::TRISAbits.TRISA5=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	199;"	d	line:199
+CONFIG_RB4_AS_DIGITAL_INPUT::{ANSELHbits.ANS10=0;TRISBbits.	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	200;"	d	line:200
+CONFIG_RB4_AS_DIGITAL_OUTPUT::{ANSELHbits.ANS10=0;TRISBbits.	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	201;"	d	line:201
+CONFIG_RB5_AS_DIGITAL_INPUT::{ANSELHbits.ANS11=0;TRISBbits.	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	202;"	d	line:202
+CONFIG_RB5_AS_DIGITAL_OUTPUT::{ANSELHbits.ANS11=0;TRISBbits.	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	203;"	d	line:203
+CONFIG_RB6_AS_DIGITAL_INPUT::TRISBbits.TRISB6=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	204;"	d	line:204
+CONFIG_RB6_AS_DIGITAL_OUTPUT::TRISBbits.TRISB6=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	205;"	d	line:205
+CONFIG_RB7_AS_DIGITAL_INPUT::TRISBbits.TRISB7=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	206;"	d	line:206
+CONFIG_RB7_AS_DIGITAL_OUTPUT::TRISBbits.TRISB7=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	207;"	d	line:207
+CONFIG_RC0_AS_DIGITAL_INPUT::{ANSELbits.ANS4=0;TRISCbits.TR	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	208;"	d	line:208
+CONFIG_RC0_AS_DIGITAL_OUTPUT::{ANSELbits.ANS4=0;TRISCbits.TR	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	209;"	d	line:209
+CONFIG_RC1_AS_DIGITAL_INPUT::{ANSELbits.ANS5=0;TRISCbits.TR	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	210;"	d	line:210
+CONFIG_RC1_AS_DIGITAL_OUTPUT::{ANSELbits.ANS5=0;TRISCbits.TR	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	211;"	d	line:211
+CONFIG_RC2_AS_DIGITAL_INPUT::{ANSELbits.ANS6=0;TRISCbits.TR	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	212;"	d	line:212
+CONFIG_RC2_AS_DIGITAL_OUTPUT::{ANSELbits.ANS6=0;TRISCbits.TR	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	213;"	d	line:213
+CONFIG_RC3_AS_DIGITAL_INPUT::{ANSELbits.ANS7=0;TRISCbits.TR	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	214;"	d	line:214
+CONFIG_RC3_AS_DIGITAL_OUTPUT::{ANSELbits.ANS7=0;TRISCbits.TR	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	215;"	d	line:215
+CONFIG_RC4_AS_DIGITAL_INPUT::TRISCbits.TRISC4=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	216;"	d	line:216
+CONFIG_RC4_AS_DIGITAL_OUTPUT::TRISCbits.TRISC4=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	217;"	d	line:217
+CONFIG_RC5_AS_DIGITAL_INPUT::TRISCbits.TRISC5=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	218;"	d	line:218
+CONFIG_RC5_AS_DIGITAL_OUTPUT::TRISCbits.TRISC5=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	219;"	d	line:219
+CONFIG_RC6_AS_DIGITAL_INPUT::{ANSELHbits.ANS8=0;TRISCbits.T	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	220;"	d	line:220
+CONFIG_RC6_AS_DIGITAL_OUTPUT::{ANSELHbits.ANS8=0;TRISCbits.T	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	221;"	d	line:221
+CONFIG_RC7_AS_DIGITAL_INPUT::{ANSELHbits.ANS9=0;TRISCbits.T	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	222;"	d	line:222
+CONFIG_RC7_AS_DIGITAL_OUTPUT::{ANSELHbits.ANS9=0;TRISCbits.T	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	223;"	d	line:223
+CONTROL_SIGNAL_BITMAP	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	578;"	t	line:578
+COUNTRY_SETTING::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	149;"	d	line:149
+CS_ENDPOINT::0x25	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	154;"	d	line:154
+CS_INTERFACE::0x24	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	153;"	d	line:153
+CTRL_TRF_PARAMS::void	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	331;"	d	line:331
+CTRL_TRF_RETURN::void	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	330;"	d	line:330
+CTRL_TRF_RX::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	553;"	d	line:553
+CTRL_TRF_SETUP	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	290;"	t	line:290
+CTRL_TRF_TX::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	552;"	d	line:552
+ChangeBits::(reg,val,mask)reg^=((reg^val)&	E:\DAQ projekt\PIC18\include\piccolo_all.h	89;"	d	line:89
+ClrWdt::(WDTCONSET=_WDTCON_WDTCLR_MASK	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	161;"	d	line:161
+ClrWdt::asm("CLRWDT");	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	140;"	d	line:140
+ConvertToPhysicalAddress::(a)a	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	398;"	d	line:398
+CtrlTrfData	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	167;"	v	line:167
+D1EN_MASK::0b01111111	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	245;"	d	line:245
+D1LPS_HI::0b01000000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	246;"	d	line:246
+D1LPS_LO::0b00000000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	247;"	d	line:247
+D1LPS_MASK::0b10111111	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	248;"	d	line:248
+D1NSS_MASK::0b11111110	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	258;"	d	line:258
+D1NSS_VREF::0b00000001	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	257;"	d	line:257
+D1NSS_VSS::0b00000000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	256;"	d	line:256
+D1PSS_FVR::0b00001000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	254;"	d	line:254
+D1PSS_MASK::0b11110011	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	255;"	d	line:255
+D1PSS_VDD::0b00000000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	252;"	d	line:252
+D1PSS_VREF::0b00000100	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	253;"	d	line:253
+DAC1OE_MASK::0b11011111	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	251;"	d	line:251
+DACOUT_DISABLE::0b00000000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	250;"	d	line:250
+DACOUT_ENABLE::0b00100000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	249;"	d	line:249
+DAC_DISABLE::0b00000000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	244;"	d	line:244
+DAC_ENABLE::0b10000000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	243;"	d	line:243
+DATA_INTF::0x0A	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	141;"	d	line:141
+DEFAULT_STATE::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	408;"	d	line:408
+DESC_CONFIG_BYTE::(a)(a)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1254;"	d	line:1254
+DESC_CONFIG_DWORD::(a)(a&0xFF),((a>>8)&0xFF),((a>	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1256;"	d	line:1256
+DESC_CONFIG_WORD::(a)(a&0xFF),((a>>8)&0xFF)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1255;"	d	line:1255
+DETACHED_STATE::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	396;"	d	line:396
+DEVICE_REMOTE_WAKEUP::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	387;"	d	line:387
+DEV_TO_HOST::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	567;"	d	line:567
+DISABLE_ALL_ANALOG::{ANSEL=0;ANSELH=0x00;}	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	162;"	d	line:162
+DISABLE_AN10_ANALOG::ANSELHbits.ANS10=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	179;"	d	line:179
+DISABLE_AN11_ANALOG::ANSELHbits.ANS11=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	181;"	d	line:181
+DISABLE_AN3_ANALOG::ANSELbits.ANS3=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	165;"	d	line:165
+DISABLE_AN4_ANALOG::ANSELbits.ANS4=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	167;"	d	line:167
+DISABLE_AN5_ANALOG::ANSELbits.ANS5=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	169;"	d	line:169
+DISABLE_AN6_ANALOG::ANSELbits.ANS6=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	171;"	d	line:171
+DISABLE_AN7_ANALOG::ANSELbits.ANS7=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	173;"	d	line:173
+DISABLE_AN8_ANALOG::ANSELHbits.ANS8=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	175;"	d	line:175
+DISABLE_AN9_ANALOG::ANSELHbits.ANS9=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	177;"	d	line:177
+DISABLE_RA0_CN_INTERRUPT::IOCAbits.IOCA0=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	143;"	d	line:143
+DISABLE_RA1_CN_INTERRUPT::IOCAbits.IOCA1=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	145;"	d	line:145
+DISABLE_RA3_CN_INTERRUPT::IOCAbits.IOCA3=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	147;"	d	line:147
+DISABLE_RA3_PULLUP::WPUAbits.WPUA3=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	127;"	d	line:127
+DISABLE_RA4_CN_INTERRUPT::IOCAbits.IOCA4=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	149;"	d	line:149
+DISABLE_RA4_PULLUP::WPUAbits.WPUA4=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	129;"	d	line:129
+DISABLE_RA5_CN_INTERRUPT::IOCAbits.IOCA5=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	151;"	d	line:151
+DISABLE_RA5_PULLUP::WPUAbits.WPUA5=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	131;"	d	line:131
+DISABLE_RB4_CN_INTERRUPT::IOCBbits.IOCB4=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	153;"	d	line:153
+DISABLE_RB4_PULLUP::WPUBbits.WPUB4=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	133;"	d	line:133
+DISABLE_RB5_CN_INTERRUPT::IOCBbits.IOCB5=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	155;"	d	line:155
+DISABLE_RB5_PULLUP::WPUBbits.WPUB5=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	135;"	d	line:135
+DISABLE_RB6_CN_INTERRUPT::IOCBbits.IOCB6=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	157;"	d	line:157
+DISABLE_RB6_PULLUP::WPUBbits.WPUB6=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	137;"	d	line:137
+DISABLE_RB7_CN_INTERRUPT::IOCBbits.IOCB7=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	159;"	d	line:159
+DISABLE_RB7_PULLUP::WPUBbits.WPUB7=0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	139;"	d	line:139
+DSC_FN_ACM::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	159;"	d	line:159
+DSC_FN_CALL_MGT::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	158;"	d	line:158
+DSC_FN_COUNTRY_SELECTION::0x07	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	164;"	d	line:164
+DSC_FN_DLM::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	160;"	d	line:160
+DSC_FN_HEADER::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	157;"	d	line:157
+DSC_FN_RPT_CAPABILITIES::0x05	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	162;"	d	line:162
+DSC_FN_TELEPHONE_RINGER::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	161;"	d	line:161
+DSC_FN_TEL_OP_MODES::0x08	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	165;"	d	line:165
+DSC_FN_UNION::0x06	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	163;"	d	line:163
+DSC_FN_USB_TERMINAL::0x09	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	166;"	d	line:166
+DTE_PRESENT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	575;"	m	line:575	struct:_CONTROL_SIGNAL_BITMAP::<anonymous>
+DTS	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	277;"	m	line:277	struct:_BD_STAT::<anonymous>
+DTSEN	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	274;"	m	line:274	struct:_BD_STAT::<anonymous>
+DWORD	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	60;"	t	line:60
+DWORD_VAL	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	192;"	t	line:192
+DataDir	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	211;"	m	line:211	struct:_CTRL_TRF_SETUP::<anonymous>
+ENABLE_AN10::0x0400	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	276;"	d	line:276
+ENABLE_AN10_ANALOG::ANSELHbits.ANS10=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	180;"	d	line:180
+ENABLE_AN11::0x0800	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	277;"	d	line:277
+ENABLE_AN11_ANALOG::ANSELHbits.ANS11=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	182;"	d	line:182
+ENABLE_AN3::0x0008	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	269;"	d	line:269
+ENABLE_AN3_ANALOG::ANSELbits.ANS3=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	166;"	d	line:166
+ENABLE_AN4::0x0010	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	270;"	d	line:270
+ENABLE_AN4_ANALOG::ANSELbits.ANS4=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	168;"	d	line:168
+ENABLE_AN5::0x0020	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	271;"	d	line:271
+ENABLE_AN5_ANALOG::ANSELbits.ANS5=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	170;"	d	line:170
+ENABLE_AN6::0x0040	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	272;"	d	line:272
+ENABLE_AN6_ANALOG::ANSELbits.ANS6=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	172;"	d	line:172
+ENABLE_AN7::0x0080	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	273;"	d	line:273
+ENABLE_AN7_ANALOG::ANSELbits.ANS7=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	174;"	d	line:174
+ENABLE_AN8::0x0100	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	274;"	d	line:274
+ENABLE_AN8_ANALOG::ANSELHbits.ANS8=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	176;"	d	line:176
+ENABLE_AN9::0x0200	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	275;"	d	line:275
+ENABLE_AN9_ANALOG::ANSELHbits.ANS9=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	178;"	d	line:178
+ENABLE_ONE_ANALOG::{ANSEL=0;ANSELH=0x04;}	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	163;"	d	line:163
+ENABLE_RA0_CN_INTERRUPT::IOCAbits.IOCA0=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	142;"	d	line:142
+ENABLE_RA1_CN_INTERRUPT::IOCAbits.IOCA1=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	144;"	d	line:144
+ENABLE_RA3_CN_INTERRUPT::IOCAbits.IOCA3=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	146;"	d	line:146
+ENABLE_RA3_PULLUP::WPUAbits.WPUA3=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	126;"	d	line:126
+ENABLE_RA4_CN_INTERRUPT::IOCAbits.IOCA4=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	148;"	d	line:148
+ENABLE_RA4_PULLUP::WPUAbits.WPUA4=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	128;"	d	line:128
+ENABLE_RA5_CN_INTERRUPT::IOCAbits.IOCA5=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	150;"	d	line:150
+ENABLE_RA5_PULLUP::WPUAbits.WPUA5=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	130;"	d	line:130
+ENABLE_RB4_CN_INTERRUPT::IOCBbits.IOCB4=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	152;"	d	line:152
+ENABLE_RB4_PULLUP::WPUBbits.WPUB4=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	132;"	d	line:132
+ENABLE_RB5_CN_INTERRUPT::IOCBbits.IOCB5=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	154;"	d	line:154
+ENABLE_RB5_PULLUP::WPUBbits.WPUB5=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	134;"	d	line:134
+ENABLE_RB6_CN_INTERRUPT::IOCBbits.IOCB6=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	156;"	d	line:156
+ENABLE_RB6_PULLUP::WPUBbits.WPUB6=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	136;"	d	line:136
+ENABLE_RB7_CN_INTERRUPT::IOCBbits.IOCB7=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	158;"	d	line:158
+ENABLE_RB7_PULLUP::WPUBbits.WPUB7=1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	138;"	d	line:138
+ENABLE_TWO_ANALOG::{ANSEL=0;ANSELH=0x0C;}	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	164;"	d	line:164
+ENDPOINT_HALT::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	388;"	d	line:388
+ENDPOINT_MASK::0b01111000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	194;"	d	line:194
+EP0_IN_EVEN::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1787;"	d	line:1787
+EP0_IN_EVEN::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2019;"	d	line:2019
+EP0_IN_EVEN::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1860;"	d	line:1860
+EP0_IN_EVEN::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1940;"	d	line:1940
+EP0_IN_ODD::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1788;"	d	line:1788
+EP0_IN_ODD::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2020;"	d	line:2020
+EP0_IN_ODD::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1861;"	d	line:1861
+EP0_IN_ODD::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1941;"	d	line:1941
+EP0_OUT_EVEN::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1785;"	d	line:1785
+EP0_OUT_EVEN::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1858;"	d	line:1858
+EP0_OUT_EVEN::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1938;"	d	line:1938
+EP0_OUT_EVEN::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2017;"	d	line:2017
+EP0_OUT_ODD::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1786;"	d	line:1786
+EP0_OUT_ODD::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2018;"	d	line:2018
+EP0_OUT_ODD::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1859;"	d	line:1859
+EP0_OUT_ODD::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1939;"	d	line:1939
+EP10_IN_EVEN::21	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1827;"	d	line:1827
+EP10_IN_EVEN::22	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1900;"	d	line:1900
+EP10_IN_EVEN::40	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2059;"	d	line:2059
+EP10_IN_EVEN::42	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1980;"	d	line:1980
+EP10_IN_ODD::21	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1828;"	d	line:1828
+EP10_IN_ODD::22	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1901;"	d	line:1901
+EP10_IN_ODD::41	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2060;"	d	line:2060
+EP10_IN_ODD::43	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1981;"	d	line:1981
+EP10_OUT_EVEN::20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1825;"	d	line:1825
+EP10_OUT_EVEN::21	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1898;"	d	line:1898
+EP10_OUT_EVEN::38	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2057;"	d	line:2057
+EP10_OUT_EVEN::40	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1978;"	d	line:1978
+EP10_OUT_ODD::20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1826;"	d	line:1826
+EP10_OUT_ODD::21	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1899;"	d	line:1899
+EP10_OUT_ODD::39	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2058;"	d	line:2058
+EP10_OUT_ODD::41	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1979;"	d	line:1979
+EP11_IN_EVEN::23	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1831;"	d	line:1831
+EP11_IN_EVEN::24	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1904;"	d	line:1904
+EP11_IN_EVEN::44	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2063;"	d	line:2063
+EP11_IN_EVEN::46	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1984;"	d	line:1984
+EP11_IN_ODD::23	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1832;"	d	line:1832
+EP11_IN_ODD::24	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1905;"	d	line:1905
+EP11_IN_ODD::45	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2064;"	d	line:2064
+EP11_IN_ODD::47	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1985;"	d	line:1985
+EP11_OUT_EVEN::22	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1829;"	d	line:1829
+EP11_OUT_EVEN::23	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1902;"	d	line:1902
+EP11_OUT_EVEN::42	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2061;"	d	line:2061
+EP11_OUT_EVEN::44	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1982;"	d	line:1982
+EP11_OUT_ODD::22	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1830;"	d	line:1830
+EP11_OUT_ODD::23	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1903;"	d	line:1903
+EP11_OUT_ODD::43	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2062;"	d	line:2062
+EP11_OUT_ODD::45	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1983;"	d	line:1983
+EP12_IN_EVEN::25	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1835;"	d	line:1835
+EP12_IN_EVEN::26	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1908;"	d	line:1908
+EP12_IN_EVEN::48	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2067;"	d	line:2067
+EP12_IN_EVEN::50	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1988;"	d	line:1988
+EP12_IN_ODD::25	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1836;"	d	line:1836
+EP12_IN_ODD::26	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1909;"	d	line:1909
+EP12_IN_ODD::49	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2068;"	d	line:2068
+EP12_IN_ODD::51	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1989;"	d	line:1989
+EP12_OUT_EVEN::24	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1833;"	d	line:1833
+EP12_OUT_EVEN::25	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1906;"	d	line:1906
+EP12_OUT_EVEN::46	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2065;"	d	line:2065
+EP12_OUT_EVEN::48	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1986;"	d	line:1986
+EP12_OUT_ODD::24	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1834;"	d	line:1834
+EP12_OUT_ODD::25	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1907;"	d	line:1907
+EP12_OUT_ODD::47	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2066;"	d	line:2066
+EP12_OUT_ODD::49	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1987;"	d	line:1987
+EP13_IN_EVEN::27	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1839;"	d	line:1839
+EP13_IN_EVEN::28	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1912;"	d	line:1912
+EP13_IN_EVEN::52	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2071;"	d	line:2071
+EP13_IN_EVEN::54	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1992;"	d	line:1992
+EP13_IN_ODD::27	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1840;"	d	line:1840
+EP13_IN_ODD::28	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1913;"	d	line:1913
+EP13_IN_ODD::53	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2072;"	d	line:2072
+EP13_IN_ODD::55	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1993;"	d	line:1993
+EP13_OUT_EVEN::26	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1837;"	d	line:1837
+EP13_OUT_EVEN::27	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1910;"	d	line:1910
+EP13_OUT_EVEN::50	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2069;"	d	line:2069
+EP13_OUT_EVEN::52	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1990;"	d	line:1990
+EP13_OUT_ODD::26	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1838;"	d	line:1838
+EP13_OUT_ODD::27	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1911;"	d	line:1911
+EP13_OUT_ODD::51	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2070;"	d	line:2070
+EP13_OUT_ODD::53	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1991;"	d	line:1991
+EP14_IN_EVEN::29	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1843;"	d	line:1843
+EP14_IN_EVEN::30	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1916;"	d	line:1916
+EP14_IN_EVEN::56	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2075;"	d	line:2075
+EP14_IN_EVEN::58	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1996;"	d	line:1996
+EP14_IN_ODD::29	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1844;"	d	line:1844
+EP14_IN_ODD::30	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1917;"	d	line:1917
+EP14_IN_ODD::57	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2076;"	d	line:2076
+EP14_IN_ODD::59	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1997;"	d	line:1997
+EP14_OUT_EVEN::28	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1841;"	d	line:1841
+EP14_OUT_EVEN::29	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1914;"	d	line:1914
+EP14_OUT_EVEN::54	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2073;"	d	line:2073
+EP14_OUT_EVEN::56	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1994;"	d	line:1994
+EP14_OUT_ODD::28	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1842;"	d	line:1842
+EP14_OUT_ODD::29	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1915;"	d	line:1915
+EP14_OUT_ODD::55	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2074;"	d	line:2074
+EP14_OUT_ODD::57	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1995;"	d	line:1995
+EP15_IN_EVEN::31	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1847;"	d	line:1847
+EP15_IN_EVEN::32	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1920;"	d	line:1920
+EP15_IN_EVEN::60	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2079;"	d	line:2079
+EP15_IN_EVEN::62	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2000;"	d	line:2000
+EP15_IN_ODD::31	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1848;"	d	line:1848
+EP15_IN_ODD::32	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1921;"	d	line:1921
+EP15_IN_ODD::61	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2080;"	d	line:2080
+EP15_IN_ODD::63	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2001;"	d	line:2001
+EP15_OUT_EVEN::30	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1845;"	d	line:1845
+EP15_OUT_EVEN::31	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1918;"	d	line:1918
+EP15_OUT_EVEN::58	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2077;"	d	line:2077
+EP15_OUT_EVEN::60	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1998;"	d	line:1998
+EP15_OUT_ODD::30	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1846;"	d	line:1846
+EP15_OUT_ODD::31	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1919;"	d	line:1919
+EP15_OUT_ODD::59	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2078;"	d	line:2078
+EP15_OUT_ODD::61	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1999;"	d	line:1999
+EP1_IN_EVEN::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1791;"	d	line:1791
+EP1_IN_EVEN::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1864;"	d	line:1864
+EP1_IN_EVEN::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2023;"	d	line:2023
+EP1_IN_EVEN::6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1944;"	d	line:1944
+EP1_IN_ODD::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1792;"	d	line:1792
+EP1_IN_ODD::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1865;"	d	line:1865
+EP1_IN_ODD::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2024;"	d	line:2024
+EP1_IN_ODD::7	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1945;"	d	line:1945
+EP1_OUT_EVEN::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1789;"	d	line:1789
+EP1_OUT_EVEN::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2021;"	d	line:2021
+EP1_OUT_EVEN::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1862;"	d	line:1862
+EP1_OUT_EVEN::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1942;"	d	line:1942
+EP1_OUT_ODD::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1790;"	d	line:1790
+EP1_OUT_ODD::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1863;"	d	line:1863
+EP1_OUT_ODD::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2022;"	d	line:2022
+EP1_OUT_ODD::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1943;"	d	line:1943
+EP2_IN_EVEN::10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1948;"	d	line:1948
+EP2_IN_EVEN::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1795;"	d	line:1795
+EP2_IN_EVEN::6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1868;"	d	line:1868
+EP2_IN_EVEN::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2027;"	d	line:2027
+EP2_IN_ODD::11	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1949;"	d	line:1949
+EP2_IN_ODD::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1796;"	d	line:1796
+EP2_IN_ODD::6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1869;"	d	line:1869
+EP2_IN_ODD::9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2028;"	d	line:2028
+EP2_OUT_EVEN::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1793;"	d	line:1793
+EP2_OUT_EVEN::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1866;"	d	line:1866
+EP2_OUT_EVEN::6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2025;"	d	line:2025
+EP2_OUT_EVEN::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1946;"	d	line:1946
+EP2_OUT_ODD::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1794;"	d	line:1794
+EP2_OUT_ODD::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1867;"	d	line:1867
+EP2_OUT_ODD::7	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2026;"	d	line:2026
+EP2_OUT_ODD::9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1947;"	d	line:1947
+EP3_IN_EVEN::12	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2031;"	d	line:2031
+EP3_IN_EVEN::14	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1952;"	d	line:1952
+EP3_IN_EVEN::7	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1799;"	d	line:1799
+EP3_IN_EVEN::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1872;"	d	line:1872
+EP3_IN_ODD::13	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2032;"	d	line:2032
+EP3_IN_ODD::15	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1953;"	d	line:1953
+EP3_IN_ODD::7	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1800;"	d	line:1800
+EP3_IN_ODD::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1873;"	d	line:1873
+EP3_OUT_EVEN::10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2029;"	d	line:2029
+EP3_OUT_EVEN::12	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1950;"	d	line:1950
+EP3_OUT_EVEN::6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1797;"	d	line:1797
+EP3_OUT_EVEN::7	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1870;"	d	line:1870
+EP3_OUT_ODD::11	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2030;"	d	line:2030
+EP3_OUT_ODD::13	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1951;"	d	line:1951
+EP3_OUT_ODD::6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1798;"	d	line:1798
+EP3_OUT_ODD::7	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1871;"	d	line:1871
+EP4_IN_EVEN::10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1876;"	d	line:1876
+EP4_IN_EVEN::16	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2035;"	d	line:2035
+EP4_IN_EVEN::18	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1956;"	d	line:1956
+EP4_IN_EVEN::9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1803;"	d	line:1803
+EP4_IN_ODD::10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1877;"	d	line:1877
+EP4_IN_ODD::17	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2036;"	d	line:2036
+EP4_IN_ODD::19	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1957;"	d	line:1957
+EP4_IN_ODD::9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1804;"	d	line:1804
+EP4_OUT_EVEN::14	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2033;"	d	line:2033
+EP4_OUT_EVEN::16	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1954;"	d	line:1954
+EP4_OUT_EVEN::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1801;"	d	line:1801
+EP4_OUT_EVEN::9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1874;"	d	line:1874
+EP4_OUT_ODD::15	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2034;"	d	line:2034
+EP4_OUT_ODD::17	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1955;"	d	line:1955
+EP4_OUT_ODD::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1802;"	d	line:1802
+EP4_OUT_ODD::9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1875;"	d	line:1875
+EP5_IN_EVEN::11	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1807;"	d	line:1807
+EP5_IN_EVEN::12	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1880;"	d	line:1880
+EP5_IN_EVEN::20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2039;"	d	line:2039
+EP5_IN_EVEN::22	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1960;"	d	line:1960
+EP5_IN_ODD::11	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1808;"	d	line:1808
+EP5_IN_ODD::12	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1881;"	d	line:1881
+EP5_IN_ODD::21	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2040;"	d	line:2040
+EP5_IN_ODD::23	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1961;"	d	line:1961
+EP5_OUT_EVEN::10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1805;"	d	line:1805
+EP5_OUT_EVEN::11	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1878;"	d	line:1878
+EP5_OUT_EVEN::18	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2037;"	d	line:2037
+EP5_OUT_EVEN::20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1958;"	d	line:1958
+EP5_OUT_ODD::10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1806;"	d	line:1806
+EP5_OUT_ODD::11	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1879;"	d	line:1879
+EP5_OUT_ODD::19	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2038;"	d	line:2038
+EP5_OUT_ODD::21	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1959;"	d	line:1959
+EP6_IN_EVEN::13	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1811;"	d	line:1811
+EP6_IN_EVEN::14	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1884;"	d	line:1884
+EP6_IN_EVEN::24	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2043;"	d	line:2043
+EP6_IN_EVEN::26	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1964;"	d	line:1964
+EP6_IN_ODD::13	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1812;"	d	line:1812
+EP6_IN_ODD::14	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1885;"	d	line:1885
+EP6_IN_ODD::25	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2044;"	d	line:2044
+EP6_IN_ODD::27	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1965;"	d	line:1965
+EP6_OUT_EVEN::12	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1809;"	d	line:1809
+EP6_OUT_EVEN::13	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1882;"	d	line:1882
+EP6_OUT_EVEN::22	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2041;"	d	line:2041
+EP6_OUT_EVEN::24	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1962;"	d	line:1962
+EP6_OUT_ODD::12	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1810;"	d	line:1810
+EP6_OUT_ODD::13	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1883;"	d	line:1883
+EP6_OUT_ODD::23	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2042;"	d	line:2042
+EP6_OUT_ODD::25	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1963;"	d	line:1963
+EP7_IN_EVEN::15	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1815;"	d	line:1815
+EP7_IN_EVEN::16	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1888;"	d	line:1888
+EP7_IN_EVEN::28	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2047;"	d	line:2047
+EP7_IN_EVEN::30	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1968;"	d	line:1968
+EP7_IN_ODD::15	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1816;"	d	line:1816
+EP7_IN_ODD::16	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1889;"	d	line:1889
+EP7_IN_ODD::29	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2048;"	d	line:2048
+EP7_IN_ODD::31	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1969;"	d	line:1969
+EP7_OUT_EVEN::14	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1813;"	d	line:1813
+EP7_OUT_EVEN::15	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1886;"	d	line:1886
+EP7_OUT_EVEN::26	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2045;"	d	line:2045
+EP7_OUT_EVEN::28	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1966;"	d	line:1966
+EP7_OUT_ODD::14	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1814;"	d	line:1814
+EP7_OUT_ODD::15	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1887;"	d	line:1887
+EP7_OUT_ODD::27	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2046;"	d	line:2046
+EP7_OUT_ODD::29	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1967;"	d	line:1967
+EP8_IN_EVEN::17	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1819;"	d	line:1819
+EP8_IN_EVEN::18	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1892;"	d	line:1892
+EP8_IN_EVEN::32	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2051;"	d	line:2051
+EP8_IN_EVEN::34	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1972;"	d	line:1972
+EP8_IN_ODD::17	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1820;"	d	line:1820
+EP8_IN_ODD::18	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1893;"	d	line:1893
+EP8_IN_ODD::33	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2052;"	d	line:2052
+EP8_IN_ODD::35	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1973;"	d	line:1973
+EP8_OUT_EVEN::16	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1817;"	d	line:1817
+EP8_OUT_EVEN::17	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1890;"	d	line:1890
+EP8_OUT_EVEN::30	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2049;"	d	line:2049
+EP8_OUT_EVEN::32	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1970;"	d	line:1970
+EP8_OUT_ODD::16	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1818;"	d	line:1818
+EP8_OUT_ODD::17	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1891;"	d	line:1891
+EP8_OUT_ODD::31	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2050;"	d	line:2050
+EP8_OUT_ODD::33	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1971;"	d	line:1971
+EP9_IN_EVEN::19	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1823;"	d	line:1823
+EP9_IN_EVEN::20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1896;"	d	line:1896
+EP9_IN_EVEN::36	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2055;"	d	line:2055
+EP9_IN_EVEN::38	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1976;"	d	line:1976
+EP9_IN_ODD::19	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1824;"	d	line:1824
+EP9_IN_ODD::20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1897;"	d	line:1897
+EP9_IN_ODD::37	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2056;"	d	line:2056
+EP9_IN_ODD::39	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1977;"	d	line:1977
+EP9_OUT_EVEN::18	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1821;"	d	line:1821
+EP9_OUT_EVEN::19	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1894;"	d	line:1894
+EP9_OUT_EVEN::34	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2053;"	d	line:2053
+EP9_OUT_EVEN::36	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1974;"	d	line:1974
+EP9_OUT_ODD::18	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1822;"	d	line:1822
+EP9_OUT_ODD::19	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1895;"	d	line:1895
+EP9_OUT_ODD::35	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2054;"	d	line:2054
+EP9_OUT_ODD::37	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1975;"	d	line:1975
+EP::(ep,dir,pp)(2*ep+dir)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1850;"	d	line:1850
+EP::(ep,dir,pp)(2*ep+dir+(((ep==0)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1923;"	d	line:1923
+EP::(ep,dir,pp)(4*ep+2*dir+((ep==0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2082;"	d	line:2082
+EP::(ep,dir,pp)(4*ep+2*dir+pp)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2003;"	d	line:2003
+EPDir	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	282;"	m	line:282	struct:_CTRL_TRF_SETUP::<anonymous>
+EPNum	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	280;"	m	line:280	struct:_CTRL_TRF_SETUP::<anonymous>
+EP_ATTR_ADAPT::(2<<2)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	211;"	d	line:211
+EP_ATTR_ASYNC::(1<<2)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	210;"	d	line:210
+EP_ATTR_BULK::(2<<0)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	205;"	d	line:205
+EP_ATTR_CONTROL::(0<<0)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	203;"	d	line:203
+EP_ATTR_DATA::(0<<4)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	215;"	d	line:215
+EP_ATTR_FEEDBACK::(1<<4)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	216;"	d	line:216
+EP_ATTR_IMP_FB::(2<<4)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	217;"	d	line:217
+EP_ATTR_INTR::(3<<0)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	206;"	d	line:206
+EP_ATTR_ISOCH::(1<<0)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	204;"	d	line:204
+EP_ATTR_NO_SYNC::(0<<2)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	209;"	d	line:209
+EP_ATTR_SYNC::(3<<2)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	212;"	d	line:212
+EP_CTRL::0x06	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	464;"	d	line:464
+EP_CTRL::0x0C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	484;"	d	line:484
+EP_DIR_IN::0x80	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	194;"	d	line:194
+EP_DIR_OUT::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	195;"	d	line:195
+EP_IN::0x0A	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	466;"	d	line:466
+EP_IN::0x14	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	486;"	d	line:486
+EP_LG_PKT_BULK_FS::32	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	224;"	d	line:224
+EP_MAX_PKT_BULK_FS::64	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	223;"	d	line:223
+EP_MAX_PKT_INTR_FS::64	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	221;"	d	line:221
+EP_MAX_PKT_INTR_LS::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	220;"	d	line:220
+EP_MAX_PKT_ISOCH_FS::1023	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	222;"	d	line:222
+EP_MED_PKT_BULK_FS::16	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	225;"	d	line:225
+EP_OUT::0x0C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	465;"	d	line:465
+EP_OUT::0x18	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	485;"	d	line:485
+EP_OUT_IN::0x0E	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	467;"	d	line:467
+EP_OUT_IN::0x1C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	487;"	d	line:487
+EP_SM_PKT_BULK_FS::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	226;"	d	line:226
+EVENT_ATTACH	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	278;"	e	line:278
+EVENT_AUDIO_BASE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	368;"	e	line:368
+EVENT_BUS_ERROR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	375;"	e	line:375
+EVENT_CANNOT_ENUMERATE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	328;"	e	line:328
+EVENT_CDC_BASE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	364;"	e	line:364
+EVENT_CHARGER_BASE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	366;"	e	line:366
+EVENT_CLIENT_INIT_ERROR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	332;"	e	line:332
+EVENT_CONFIGURED	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	344;"	e	line:344
+EVENT_DETACH	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	282;"	e	line:282
+EVENT_EP0_REQUEST	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	353;"	e	line:353
+EVENT_GENERIC_BASE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	356;"	e	line:356
+EVENT_HID_BASE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	360;"	e	line:360
+EVENT_HUB_ATTACH	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	285;"	e	line:285
+EVENT_MSD_BASE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	358;"	e	line:358
+EVENT_NONE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	253;"	e	line:253
+EVENT_OUT_OF_MEMORY	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	338;"	e	line:338
+EVENT_PRINTER_BASE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	362;"	e	line:362
+EVENT_RESET	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	273;"	e	line:273
+EVENT_RESUME	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	265;"	e	line:265
+EVENT_SETUP	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	292;"	e	line:292
+EVENT_SET_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	347;"	e	line:347
+EVENT_SOF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	262;"	e	line:262
+EVENT_STALL	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	288;"	e	line:288
+EVENT_SUSPEND	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	269;"	e	line:269
+EVENT_TRANSFER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	258;"	e	line:258
+EVENT_UNSPECIFIED_ERROR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	341;"	e	line:341
+EVENT_UNSUPPORTED_DEVICE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	324;"	e	line:324
+EVENT_USER_BASE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	370;"	e	line:370
+EVENT_VBUS_OVERCURRENT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	300;"	e	line:300
+EVENT_VBUS_POWER_AVAILABLE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	320;"	e	line:320
+EVENT_VBUS_RELEASE_POWER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	311;"	e	line:311
+EVENT_VBUS_REQUEST_POWER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	306;"	e	line:306
+EVENT_VBUS_SES_REQUEST	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	295;"	e	line:295
+FALSE	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	48;"	e	line:48	enum:_BOOL
+FAR	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	159;"	d	line:159
+FAR::__attribute__((far))	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	152;"	d	line:152
+FAR::far	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	127;"	d	line:127
+FVR1S_1024::0b00010000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	235;"	d	line:235
+FVR1S_2048::0b00100000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	236;"	d	line:236
+FVR1S_4096::0b00110000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	237;"	d	line:237
+FVR1S_MASK::0b11001111	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	238;"	d	line:238
+FVREN_MASK::0b01111111	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	234;"	d	line:234
+FVR_DISABLE::0b00000000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	233;"	d	line:233
+FVR_ENABLE::0b10000000	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	232;"	d	line:232
+FVR_STATUS::REFCON0bits.FVR1ST	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	239;"	d	line:239
+Fall_edge1	E:\DAQ projekt\PIC18\usb\cdc-demo.c	29;"	v	line:29
+GET_CFG::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	380;"	d	line:380
+GET_COMM_FEATURE::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	111;"	d	line:111
+GET_DSC::6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	378;"	d	line:378
+GET_ENCAPSULATED_RESPONSE::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	109;"	d	line:109
+GET_INTF::10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	382;"	d	line:382
+GET_LINE_CODING::0x21	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	114;"	d	line:114
+GET_STATUS::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	374;"	d	line:374
+GetLineCoding	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	623;"	m	line:623	union:_CDC_NOTICE
+HB	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	112;"	m	line:112	struct:_WORD_VAL::<anonymous>
+HB	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	148;"	m	line:148	struct:_DWORD_VAL::<anonymous>
+HD	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	203;"	m	line:203	struct:_QWORD_VAL::<anonymous>
+HID_BOOTLOADER	E:\DAQ projekt\PIC18\include\piccolo_config.h	61;"	d	line:61
+HIGH_INTERRUPT_VECTOR::0x08	E:\DAQ projekt\PIC18\include\piccolo_all.h	106;"	d	line:106
+HIGH_INTERRUPT_VECTOR::0x1008	E:\DAQ projekt\PIC18\include\piccolo_all.h	98;"	d	line:98
+HIGH_INTERRUPT_VECTOR::0x808	E:\DAQ projekt\PIC18\include\piccolo_all.h	102;"	d	line:102
+HOST_TO_DEV::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	566;"	d	line:566
+HSHK_EN::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	488;"	d	line:488
+HW	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	143;"	m	line:143	struct:_DWORD_VAL::<anonymous>
+HW	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	208;"	m	line:208	struct:_QWORD_VAL::<anonymous>
+I2CADAT	E:\DAQ projekt\PIC18\usb\cdc-demo.c	28;"	v	line:28
+I2Crutin	E:\DAQ projekt\PIC18\usb\cdc-demo.c	333;"	f	line:333	signature:(void)
+I2Crutin	E:\DAQ projekt\PIC18\usb\cdc-demo.c	36;"	p	line:36	file:	signature:(void)
+I2Crutin	E:\DAQ projekt\PIC18\usb\cdc-demo.c	60;"	p	line:60	file:	signature:(void)
+INCAPresult1	E:\DAQ projekt\PIC18\usb\cdc-demo.c	29;"	v	line:29
+INCAPresult2	E:\DAQ projekt\PIC18\usb\cdc-demo.c	29;"	v	line:29
+INCDIS	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	275;"	m	line:275	struct:_BD_STAT::<anonymous>
+INPUT_PIN::1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	121;"	d	line:121
+INT	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	77;"	t	line:77
+INT16	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	79;"	t	line:79
+INT32	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	80;"	t	line:80
+INT64	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	81;"	t	line:81
+INT8	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	78;"	t	line:78
+IN_PIPE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	328;"	t	line:328
+IN_TOKEN::0x09	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	563;"	d	line:563
+IN_TO_HOST::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	181;"	d	line:181
+InitializeSystem	E:\DAQ projekt\PIC18\common\piccolo_usb.c	212;"	f	line:212	signature:(void)
+InitializeSystem	E:\DAQ projekt\PIC18\common\piccolo_usb.c	34;"	p	line:34	file:	signature:(void)
+InitializeSystem	E:\DAQ projekt\PIC18\include\piccolo_usb.h	35;"	p	line:35	signature:(void)
+KEN	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	276;"	m	line:276	struct:_BD_STAT::<anonymous>
+LB	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	111;"	m	line:111	struct:_WORD_VAL::<anonymous>
+LB	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	147;"	m	line:147	struct:_DWORD_VAL::<anonymous>
+LD	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	202;"	m	line:202	struct:_QWORD_VAL::<anonymous>
+LEDport::LATC	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	85;"	d	line:85
+LEDtris::TRISC	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	86;"	d	line:86
+LINE_CODING	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	568;"	t	line:568
+LINE_CODING_LENGTH::0x07	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	553;"	d	line:553
+LINE_CODING_PFUNC::&USB_CDC_SET_LINE_CODING_HANDL	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	177;"	d	line:177
+LINE_CODING_PFUNC::NULL	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	180;"	d	line:180
+LINE_CODING_TARGET::&cdc_notice.SetLineCoding._byt	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	176;"	d	line:176
+LINE_CODING_TARGET::&line_coding._byte[0]	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	179;"	d	line:179
+LONG	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	64;"	t	line:64
+LONGLONG	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	65;"	t	line:65
+LOW_INTERRUPT_VECTOR::0x1018	E:\DAQ projekt\PIC18\include\piccolo_all.h	99;"	d	line:99
+LOW_INTERRUPT_VECTOR::0x18	E:\DAQ projekt\PIC18\include\piccolo_all.h	107;"	d	line:107
+LOW_INTERRUPT_VECTOR::0x818	E:\DAQ projekt\PIC18\include\piccolo_all.h	103;"	d	line:103
+LW	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	142;"	m	line:142	struct:_DWORD_VAL::<anonymous>
+LW	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	207;"	m	line:207	struct:_QWORD_VAL::<anonymous>
+MB	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	150;"	m	line:150	struct:_DWORD_VAL::<anonymous>
+MW	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	210;"	m	line:210	struct:_QWORD_VAL::<anonymous>
+NETWORK_CONNECTION::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	122;"	d	line:122
+NO_PROTOCOL::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	144;"	d	line:144
+NULL::0	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	51;"	d	line:51
+NUM_STOP_BITS_1::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	293;"	d	line:293
+NUM_STOP_BITS_1_5::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	294;"	d	line:294
+NUM_STOP_BITS_2::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	295;"	d	line:295
+Nop::asm("NOP");	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	139;"	d	line:139
+Nop::asm("nop")	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	166;"	d	line:166
+OTG_FEATURE_A_ALT_HNP_SUPPORT::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	405;"	d	line:405
+OTG_FEATURE_A_HNP_SUPPORT::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	404;"	d	line:404
+OTG_FEATURE_B_HNP_ENABLE::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	403;"	d	line:403
+OTG_HNP_SUPPORT::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	363;"	d	line:363
+OTG_SRP_SUPPORT::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	364;"	d	line:364
+OUTPUT_PIN::0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	122;"	d	line:122
+OUT_FROM_HOST::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	180;"	d	line:180
+OUT_PIPE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	353;"	t	line:353
+OUT_TOKEN::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	562;"	d	line:562
+PARITY_EVEN::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	338;"	d	line:338
+PARITY_MARK::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	339;"	d	line:339
+PARITY_NONE::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	336;"	d	line:336
+PARITY_ODD::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	337;"	d	line:337
+PARITY_SPACE::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	340;"	d	line:340
+PCDC_NOTICE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	626;"	t	line:626
+PICCOLO_14K50_H	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	7;"	d	line:7
+PICCOLO_ALL	E:\DAQ projekt\PIC18\include\piccolo_all.h	55;"	d	line:55
+PICCOLO_CONFIG_H	E:\DAQ projekt\PIC18\include\piccolo_config.h	37;"	d	line:37
+PICCOLO_USB	E:\DAQ projekt\PIC18\include\piccolo_usb.h	17;"	d	line:17
+PID	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	294;"	m	line:294	struct:_BD_STAT::<anonymous>
+PID0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	285;"	m	line:285	struct:_BD_STAT::<anonymous>
+PID1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	286;"	m	line:286	struct:_BD_STAT::<anonymous>
+PID2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	287;"	m	line:287	struct:_BD_STAT::<anonymous>
+PID3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	288;"	m	line:288	struct:_BD_STAT::<anonymous>
+PID_ACK::0x2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	334;"	d	line:334
+PID_DATA0::0x3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	335;"	d	line:335
+PID_DATA1::0xB	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	343;"	d	line:343
+PID_DATA2::0x7	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	339;"	d	line:339
+PID_ERR::0xC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	345;"	d	line:345
+PID_IN::0x9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	341;"	d	line:341
+PID_MASK_DATA::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	350;"	d	line:350
+PID_MASK_DATA_SHIFTED::(PID_MASK_DATA<<2)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	351;"	d	line:351
+PID_MDATA::0xF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	348;"	d	line:348
+PID_NAK::0xA	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	342;"	d	line:342
+PID_NYET::0x6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	338;"	d	line:338
+PID_OUT::0x1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	333;"	d	line:333
+PID_PING::0x4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	336;"	d	line:336
+PID_PRE::0xC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	344;"	d	line:344
+PID_SETUP::0xD	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	346;"	d	line:346
+PID_SOF::0x5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	337;"	d	line:337
+PID_SPLIT::0x8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	340;"	d	line:340
+PID_STALL::0xE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	347;"	d	line:347
+POINTER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	378;"	t	line:378
+POWERED_STATE::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	404;"	d	line:404
+PRIVATE::static	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	56;"	d	line:56
+PROTECTED	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	55;"	d	line:55
+PSETUP_PKT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	322;"	t	line:322
+PTR_BASE::DWORD	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	93;"	d	line:93
+PTR_BASE::WORD	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	96;"	d	line:96
+PTR_BASE::WORD	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	99;"	d	line:99
+PUBLIC::	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	54;"	d	line:54
+ProcessIO	E:\DAQ projekt\PIC18\common\piccolo_usb.c	282;"	f	line:282	signature:(void)
+ProcessIO	E:\DAQ projekt\PIC18\common\piccolo_usb.c	35;"	p	line:35	file:	signature:(void)
+ProcessIO	E:\DAQ projekt\PIC18\include\piccolo_usb.h	36;"	p	line:36	signature:(void)
+QWORD	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	61;"	t	line:61
+QWORD_VAL	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	279;"	t	line:279
+RCPT_DEV::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	573;"	d	line:573
+RCPT_EP::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	575;"	d	line:575
+RCPT_INTF::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	574;"	d	line:574
+RCPT_OTH::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	576;"	d	line:576
+RESET_VECTOR::0x00	E:\DAQ projekt\PIC18\include\piccolo_all.h	105;"	d	line:105
+RESET_VECTOR::0x1000	E:\DAQ projekt\PIC18\include\piccolo_all.h	97;"	d	line:97
+RESET_VECTOR::0x800	E:\DAQ projekt\PIC18\include\piccolo_all.h	101;"	d	line:101
+RESPONSE_AVAILABLE::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	123;"	d	line:123
+ROM::const	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	137;"	d	line:137
+ROM::const	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	147;"	d	line:147
+ROM::rom	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	131;"	d	line:131
+ROM_PTR_BASE	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	102;"	d	line:102
+ROM_PTR_BASE::DWORD	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	103;"	d	line:103
+ROM_PTR_BASE::DWORD	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	94;"	d	line:94
+ROM_PTR_BASE::WORD	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	97;"	d	line:97
+ROM_PTR_BASE::unsignedshortlong	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	100;"	d	line:100
+ReadPOT	E:\DAQ projekt\PIC18\common\piccolo_usb.c	38;"	p	line:38	file:	signature:(void)
+ReadPOT	E:\DAQ projekt\PIC18\common\piccolo_usb.c	398;"	f	line:398	signature:(void)
+ReadPOT	E:\DAQ projekt\PIC18\include\piccolo_usb.h	39;"	p	line:39	signature:(void)
+Recipient	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	209;"	m	line:209	struct:_CTRL_TRF_SETUP::<anonymous>
+Remapped_High_ISR	E:\DAQ projekt\PIC18\include\piccolo_all.h	129;"	f	line:129	signature:(void)
+RemoteWakeup	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	127;"	v	line:127
+RequestType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	210;"	m	line:210	struct:_CTRL_TRF_SETUP::<anonymous>
+Reset::SoftReset	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	160;"	d	line:160
+Reset::asm("RESET");	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	141;"	d	line:141
+Reset::asm("reset")	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	151;"	d	line:151
+Rise_edge1	E:\DAQ projekt\PIC18\usb\cdc-demo.c	29;"	v	line:29
+SEND_BREAK::0x23	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	116;"	d	line:116
+SEND_ENCAPSULATED_COMMAND::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	108;"	d	line:108
+SERIAL_STATE::0x20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	124;"	d	line:124
+SETUP_PKT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	322;"	t	line:322
+SETUP_TOKEN::0x0D	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	561;"	d	line:561
+SET_ADR::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	377;"	d	line:377
+SET_CFG::9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	381;"	d	line:381
+SET_COMM_FEATURE::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	110;"	d	line:110
+SET_CONTROL_LINE_STATE::0x22	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	115;"	d	line:115
+SET_DSC::7	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	379;"	d	line:379
+SET_FEATURE::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	376;"	d	line:376
+SET_INTF::11	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	383;"	d	line:383
+SET_LINE_CODING::0x20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	113;"	d	line:113
+SHORT	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	63;"	t	line:63
+SHORT_PKT_NOT_USED::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	556;"	d	line:556
+SHORT_PKT_PENDING::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	557;"	d	line:557
+SHORT_PKT_SENT::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	558;"	d	line:558
+STANDARD::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	569;"	d	line:569
+STAT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	304;"	m	line:304	struct:__BDT::<anonymous>
+SW1::PORTAbits.RA3	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	117;"	d	line:117
+SYNCH_FRAME::12	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	384;"	d	line:384
+SetConfigurationOptions::{	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	436;"	d	line:436
+SetConfigurationOptions::{	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	449;"	d	line:449
+SetConfigurationOptions::{U1CNFG1=0;U1EIE=0x9F;U1IE=0x9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	456;"	d	line:456
+SetConfigurationOptions::{U1CNFG1=UCFG_VAL;U1EIE=0x9F;U	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	430;"	d	line:430
+SetConfigurationOptions::{U1CNFG1=UCFG_VAL;U1EIE=0x9F;U	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	442;"	d	line:442
+SetLineCoding	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	624;"	m	line:624	union:_CDC_NOTICE
+SetupPkt	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	304;"	s	line:304
+SetupPkt	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	166;"	v	line:166
+TRANSFER_FLAGS	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	187;"	t	line:187
+TRUE	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	48;"	e	line:48	enum:_BOOL
+U1ADDR::UADDR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	239;"	d	line:239
+U1CNFG1::UCFG	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	248;"	d	line:248
+U1CON::UCON	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	244;"	d	line:244
+U1CONbits::UCONbits	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	246;"	d	line:246
+U1EIE::UEIE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	243;"	d	line:243
+U1EIR::UEIR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	242;"	d	line:242
+U1EP0::UEP0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	245;"	d	line:245
+U1EP0bits::UEP0bits	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	250;"	d	line:250
+U1EP1::UEP1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	247;"	d	line:247
+U1IE::UIE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	240;"	d	line:240
+U1IR::UIR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	241;"	d	line:241
+U1STAT::USTAT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	249;"	d	line:249
+UB	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	149;"	m	line:149	struct:_DWORD_VAL::<anonymous>
+UCHAR8	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	71;"	t	line:71
+UEP	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	348;"	m	line:348
+UEP_STALL::0x0001	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	351;"	d	line:351
+UINT	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	83;"	t	line:83
+UINT16	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	85;"	t	line:85
+UINT32	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	86;"	t	line:86
+UINT64	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	87;"	t	line:87
+UINT8	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	84;"	t	line:84
+UOWN	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	278;"	m	line:278	struct:_BD_STAT::<anonymous>
+UOWN	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	290;"	m	line:290	struct:_BD_STAT::<anonymous>
+USBActiveConfiguration	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	116;"	v	line:116
+USBActivityIE::UIEbits.ACTVIE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	214;"	d	line:214
+USBActivityIF::UIRbits.ACTVIF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	215;"	d	line:215
+USBActivityIFBitNum::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	217;"	d	line:217
+USBActivityIFReg::(BYTE*)&UIR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	216;"	d	line:216
+USBAlternateInterface	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	117;"	v	line:117
+USBCBCheckOtherReq	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1077;"	p	line:1077	signature:(void)
+USBCBCheckOtherReq	E:\DAQ projekt\PIC18\common\piccolo_usb.c	589;"	f	line:589	signature:(void)
+USBCBEP0DataReceived	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1247;"	p	line:1247	signature:(void)
+USBCBEP0DataReceived	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	877;"	p	line:877	signature:(void)
+USBCBEP0DataReceived	E:\DAQ projekt\PIC18\common\piccolo_usb.c	717;"	f	line:717	signature:(void)
+USBCBErrorHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1042;"	p	line:1042	signature:(void)
+USBCBErrorHandler	E:\DAQ projekt\PIC18\common\piccolo_usb.c	538;"	f	line:538	signature:(void)
+USBCBInitEP	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1132;"	p	line:1132	signature:(void)
+USBCBInitEP	E:\DAQ projekt\PIC18\common\piccolo_usb.c	620;"	f	line:620	signature:(void)
+USBCBSendResume	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1213;"	p	line:1213	signature:(void)
+USBCBSendResume	E:\DAQ projekt\PIC18\common\piccolo_usb.c	685;"	f	line:685	signature:(void)
+USBCBStdSetDscHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1104;"	p	line:1104	signature:(void)
+USBCBStdSetDscHandler	E:\DAQ projekt\PIC18\common\piccolo_usb.c	603;"	f	line:603	signature:(void)
+USBCBSuspend	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	930;"	p	line:930	signature:(void)
+USBCBSuspend	E:\DAQ projekt\PIC18\common\piccolo_usb.c	434;"	f	line:434	signature:(void)
+USBCBWakeFromSuspend	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	966;"	p	line:966	signature:(void)
+USBCBWakeFromSuspend	E:\DAQ projekt\PIC18\common\piccolo_usb.c	502;"	f	line:502	signature:(void)
+USBCB_EP0_DATA_RECEIVED::	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	880;"	d	line:880
+USBCB_EP0_DATA_RECEIVED::USBCBEP0DataReceived	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	878;"	d	line:878
+USBCB_SOF_Handler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	997;"	p	line:997	signature:(void)
+USBCB_SOF_Handler	E:\DAQ projekt\PIC18\common\piccolo_usb.c	525;"	f	line:525	signature:(void)
+USBCDCSetLineCoding	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	145;"	p	line:145	file:	signature:(void)
+USBCFG_H	E:\DAQ projekt\PIC18\include\usb_config.h	51;"	d	line:51
+USBCheckCDCRequest	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	641;"	p	line:641	signature:(void)
+USBCheckCDCRequest	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	172;"	f	line:172	signature:(void)
+USBCheckStdRequest	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	848;"	p	line:848	signature:(void)
+USBCheckStdRequest	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1109;"	f	line:1109	signature:(void)
+USBClearInterruptFlag	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1615;"	p	line:1615	signature:(BYTE* reg, BYTE flag)
+USBClearInterruptFlag	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	2079;"	f	line:2079	signature:(BYTE* reg, BYTE flag)
+USBClearInterruptRegister::(reg)reg=0;	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1638;"	d	line:1638
+USBClearInterruptRegister::(reg)reg=0xFF;	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1640;"	d	line:1640
+USBClearUSBInterrupt::PIR2bits.USBIF=0;	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	399;"	d	line:399
+USBConfigureEndpoint	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	861;"	p	line:861	signature:(BYTE EPNum, BYTE direction)
+USBConfigureEndpoint	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1828;"	f	line:1828	signature:(BYTE EPNum, BYTE direction)
+USBCtrlEPService	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	845;"	p	line:845	signature:(void)
+USBCtrlEPService	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	800;"	f	line:800	signature:(void)
+USBCtrlEPServiceComplete	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	850;"	p	line:850	signature:(void)
+USBCtrlEPServiceComplete	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1460;"	f	line:1460	signature:(void)
+USBCtrlTrfInHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	847;"	p	line:847	signature:(void)
+USBCtrlTrfInHandler	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	991;"	f	line:991	signature:(void)
+USBCtrlTrfOutHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	857;"	p	line:857	signature:(void)
+USBCtrlTrfOutHandler	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	941;"	f	line:941	signature:(void)
+USBCtrlTrfRxService	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	853;"	p	line:853	signature:(void)
+USBCtrlTrfRxService	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1702;"	f	line:1702	signature:(void)
+USBCtrlTrfSetupHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	846;"	p	line:846	signature:(void)
+USBCtrlTrfSetupHandler	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	894;"	f	line:894	signature:(void)
+USBCtrlTrfTxService	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	851;"	p	line:851	signature:(void)
+USBCtrlTrfTxService	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1607;"	f	line:1607	signature:(void)
+USBDEVICE_H	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	95;"	d	line:95
+USBDeviceAttach	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1758;"	p	line:1758	signature:(void)
+USBDeviceDetach	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1757;"	p	line:1757	signature:(void)
+USBDeviceInit	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	664;"	p	line:664	signature:(void)
+USBDeviceInit	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	221;"	f	line:221	signature:(void)
+USBDeviceState	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	115;"	v	line:115
+USBDeviceTasks	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	639;"	p	line:639	signature:(void)
+USBDeviceTasks	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	318;"	f	line:318	signature:(void)
+USBDeviceTasks	E:\DAQ projekt\PIC18\common\piccolo_usb.c	36;"	p	line:36	file:	signature:(void)
+USBDeviceTasks	E:\DAQ projekt\PIC18\include\piccolo_usb.h	37;"	p	line:37	signature:(void)
+USBEP0Receive::(dest,size,function){outPipes[	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1542;"	d	line:1542
+USBEP0SendRAMPtr::(src,size,options){USBEP0SetSo	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1481;"	d	line:1481
+USBEP0SendROMPtr::(src,size,options){USBEP0SetSo	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1513;"	d	line:1513
+USBEP0SetSize::(size)inPipes[0].wCount.Val=si	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1449;"	d	line:1449
+USBEP0SetSourceRAM::(src)inPipes[0].pSrc.bRam=src	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1373;"	d	line:1373
+USBEP0SetSourceROM::(src)inPipes[0].pSrc.bRom=src	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1396;"	d	line:1396
+USBEP0Transmit::(options)inPipes[0].info.Val=o	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1426;"	d	line:1426
+USBEPService	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	860;"	p	line:860	signature:(void)
+USBEnableEndpoint	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	868;"	p	line:868	signature:(BYTE ep,BYTE options)
+USBEnableEndpoint	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1916;"	f	line:1916	signature:(BYTE ep, BYTE options)
+USBEnableInterrupts::{RCONbits.IPEN=1;IPR2bits.USBI	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	182;"	d	line:182
+USBEnableInterrupts::{RCONbits.IPEN=1;IPR2bits.USBI	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	184;"	d	line:184
+USBErrorIE::UIEbits.UERRIE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	229;"	d	line:229
+USBErrorIF::UIRbits.UERRIF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	230;"	d	line:230
+USBErrorIFBitNum::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	232;"	d	line:232
+USBErrorIFReg::(BYTE*)&UIR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	231;"	d	line:231
+USBGetDeviceState::USBDeviceState	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	795;"	d	line:795
+USBGetRemoteWakeupStatus::RemoteWakeup	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	729;"	d	line:729
+USBHALControlBusPower	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	250;"	p	line:250	signature:( BYTE cmd )
+USBHALControlUsbResistors	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	177;"	p	line:177	signature:( BYTE flags )
+USBHALControlUsbResistors	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	180;"	p	line:180	signature:( BYTE flags )
+USBHALControlUsbResistors::OTGCORE_ControlUsbResistors	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	179;"	d	line:179
+USBHALFlushPipe	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	486;"	p	line:486	signature:( TRANSFER_FLAGS pipe )
+USBHALGetLastError	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	291;"	p	line:291	signature:( void )
+USBHALGetStalledEndpoints	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	449;"	p	line:449	signature:( void )
+USBHALGetStalledEndpoints::OTGCORE_GetStalledEndpoints	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	447;"	d	line:447
+USBHALHandleBusEvent	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	337;"	p	line:337	signature:( void )
+USBHALInitialize	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	636;"	p	line:636	signature:( unsigned long flags )
+USBHALSessionIsValid	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	224;"	p	line:224	signature:( void )
+USBHALSetBusAddress	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	141;"	p	line:141	signature:( BYTE addr )
+USBHALSetBusAddress::OTGCORE_SetDeviceAddr	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	139;"	d	line:139
+USBHALSetEpConfiguration	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	586;"	p	line:586	signature:( BYTE ep_num, UINT16 max_pkt_size, UINT16 flags )
+USBHALStallPipe	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	378;"	p	line:378	signature:( TRANSFER_FLAGS pipe )
+USBHALStallPipe::OTGCORE_StallPipe	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	376;"	d	line:376
+USBHALTransferData	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	546;"	p	line:546	signature:( TRANSFER_FLAGS flags, void *buffer, unsigned int size )
+USBHALUnstallPipe	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	415;"	p	line:415	signature:( TRANSFER_FLAGS pipe )
+USBHALUnstallPipe::OTGCORE_UnstallPipe	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	413;"	d	line:413
+USBHAL_BTO_ERR::0x00000010	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	301;"	d	line:301
+USBHAL_BTS_ERR::0x00000080	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	303;"	d	line:303
+USBHAL_CRC16::0x00000004	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	299;"	d	line:299
+USBHAL_CRC5::0x00000002	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	297;"	d	line:297
+USBHAL_DFN8::0x00000008	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	300;"	d	line:300
+USBHAL_DMA_ERR2::0x00000400	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	306;"	d	line:306
+USBHAL_DMA_ERR::0x00000020	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	302;"	d	line:302
+USBHAL_HOST_EOF::0x00000002	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	298;"	d	line:298
+USBHAL_NO_EP::0x00000200	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	305;"	d	line:305
+USBHAL_PID_ERR::0x00000001	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	296;"	d	line:296
+USBHAL_XFER_ID::0x00000100	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	304;"	d	line:304
+USBHandleBusy::(handle)(handle==0?0:((volatil	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1290;"	d	line:1290
+USBHandleGetAddr::(handle)(((volatileBDT_ENTRY*)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1350;"	d	line:1350
+USBHandleGetLength::(handle)(((volatileBDT_ENTRY*)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1321;"	d	line:1321
+USBIdleIE::UIEbits.IDLEIE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	209;"	d	line:209
+USBIdleIF::UIRbits.IDLEIF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	210;"	d	line:210
+USBIdleIFBitNum::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	212;"	d	line:212
+USBIdleIFReg::(BYTE*)&UIR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	211;"	d	line:211
+USBInData	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	131;"	v	line:131
+USBInMaxPacketSize	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	130;"	v	line:130
+USBInitEP	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	871;"	p	line:871	signature:(BYTE ROM* pConfig)
+USBInitEP::(a)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	873;"	d	line:873
+USBInitialize::(f)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	508;"	d	line:508
+USBInitialize::(f)USBDEVInitialize(f)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	511;"	d	line:511
+USBInitialize::(f)USBHostInit(f)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	515;"	d	line:515
+USBIsDeviceSuspended::USBSuspendControl	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	842;"	d	line:842
+USBIsTxBusy	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	858;"	p	line:858	signature:(BYTE EPNumber)
+USBMaskInterrupts::	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	190;"	d	line:190
+USBMaskInterrupts::{PIE2bits.USBIE=0;}	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	187;"	d	line:187
+USBModuleDisable::{	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	143;"	d	line:143
+USBPacketDisable::UCONbits.PKTDIS	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	236;"	d	line:236
+USBPingPongBufferReset::UCONbits.PPBRST	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	197;"	d	line:197
+USBPowerModule::	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	120;"	d	line:120
+USBPrepareForNextSetupTrf	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	852;"	p	line:852	signature:(void)
+USBPrepareForNextSetupTrf	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1063;"	f	line:1063	signature:(void)
+USBProtocolResetHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	863;"	p	line:863	signature:(void)
+USBPut	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	859;"	p	line:859	signature:(BYTE EPNum, BYTE Data)
+USBResetIE::UIEbits.URSTIE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	204;"	d	line:204
+USBResetIF::UIRbits.URSTIF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	205;"	d	line:205
+USBResetIFBitNum::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	207;"	d	line:207
+USBResetIFReg::(BYTE*)&UIR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	206;"	d	line:206
+USBResumeControl::UCONbits.RESUME	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	237;"	d	line:237
+USBRxOnePacket::(ep,data,len)USBTransferOnePac	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1592;"	d	line:1592
+USBSE0Event::UCONbits.SE0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	234;"	d	line:234
+USBSOFIE::UIEbits.SOFIE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	219;"	d	line:219
+USBSOFIF::UIRbits.SOFIF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	220;"	d	line:220
+USBSOFIFBitNum::6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	222;"	d	line:222
+USBSOFIFReg::(BYTE*)&UIR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	221;"	d	line:221
+USBSetBDTAddress::(addr)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	162;"	d	line:162
+USBSoftDetach::U1CON=0;U1IE=0;USBDeviceState=	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	844;"	d	line:844
+USBStallEndpoint	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1664;"	p	line:1664	signature:(BYTE ep, BYTE dir)
+USBStallEndpoint	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1958;"	f	line:1958	signature:(BYTE ep, BYTE dir)
+USBStallHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	866;"	p	line:866	signature:(void)
+USBStallHandler	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	635;"	f	line:635	signature:(void)
+USBStallIE::UIEbits.STALLIE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	224;"	d	line:224
+USBStallIF::UIRbits.STALLIF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	225;"	d	line:225
+USBStallIFBitNum::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	227;"	d	line:227
+USBStallIFReg::(BYTE*)&UIR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	226;"	d	line:226
+USBStdFeatureReqHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	856;"	p	line:856	signature:(void)
+USBStdFeatureReqHandler	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1174;"	f	line:1174	signature:(void)
+USBStdGetDscHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	849;"	p	line:849	signature:(void)
+USBStdGetDscHandler	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1313;"	f	line:1313	signature:(void)
+USBStdGetStatusHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	855;"	p	line:855	signature:(void)
+USBStdGetStatusHandler	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1375;"	f	line:1375	signature:(void)
+USBStdSetCfgHandler	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	854;"	p	line:854	signature:(void)
+USBStdSetCfgHandler	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1780;"	f	line:1780	signature:(void)
+USBSuspend	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	865;"	p	line:865	signature:(void)
+USBSuspend	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	678;"	f	line:678	signature:(void)
+USBSuspendControl::UCONbits.SUSPND	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	235;"	d	line:235
+USBTasks::USBHALHandleBusEvent	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	558;"	d	line:558
+USBTasks::USBHostTasks	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	562;"	d	line:562
+USBTasks::{USBHostTasks;USBHALHandleBusE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	555;"	d	line:555
+USBTransactionCompleteIE::UIEbits.TRNIE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	199;"	d	line:199
+USBTransactionCompleteIF::UIRbits.TRNIF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	200;"	d	line:200
+USBTransactionCompleteIFBitNum::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	202;"	d	line:202
+USBTransactionCompleteIFReg::(BYTE*)&UIR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	201;"	d	line:201
+USBTransferOnePacket	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	867;"	p	line:867	signature:(BYTE ep, BYTE dir, BYTE* data, BYTE len)
+USBTransferOnePacket	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	2016;"	f	line:2016	signature:(BYTE ep,BYTE dir,BYTE* data,BYTE len)
+USBTxOnePacket::(ep,data,len)USBTransferOnePac	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1568;"	d	line:1568
+USBUSARTIsTxTrfReady::(cdc_trf_state==CDC_TX_READY)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	461;"	d	line:461
+USBUnmaskInterrupts::	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	191;"	d	line:191
+USBUnmaskInterrupts::{PIE2bits.USBIE=1;}	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	188;"	d	line:188
+USBWakeFromSuspend	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	864;"	p	line:864	signature:(void)
+USBWakeFromSuspend	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	735;"	f	line:735	signature:(void)
+USB_ALLOW_SETUP::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	479;"	d	line:479
+USB_ALLOW_SETUP::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	500;"	d	line:500
+USB_BDT_ADDRESS::0x400	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	353;"	d	line:353
+USB_BUSY::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	103;"	d	line:103
+USB_BUS_SENSE::1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	77;"	d	line:77
+USB_BUS_SENSE::PORTAbits.RA1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	75;"	d	line:75
+USB_CANNOT_ENUMERATE::0x07	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	108;"	d	line:108
+USB_CDC_ACM_FN_DSC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	599;"	t	line:599
+USB_CDC_ACM_FN_DSC_VAL	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	219;"	d	line:219
+USB_CDC_CALL_MGT_FN_DSC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	619;"	t	line:619
+USB_CDC_HEADER_FN_DSC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	590;"	t	line:590
+USB_CDC_SET_LINE_CODING_HANDLER	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	141;"	p	line:141	file:
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D0_VAL::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	212;"	d	line:212
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D1::	E:\DAQ projekt\PIC18\include\usb_config.h	140;"	d	line:140
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D1_VAL::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	206;"	d	line:206
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D1_VAL::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	204;"	d	line:204
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D2_VAL::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	200;"	d	line:200
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D2_VAL::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	198;"	d	line:198
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D3_VAL::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	194;"	d	line:194
+USB_CDC_UNION_FN_DSC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	609;"	t	line:609
+USB_CD_Ptr	E:\DAQ projekt\PIC18\common\usb_descriptors.c	313;"	v	line:313
+USB_CFG_DSC_REM_WAKE::(0x20|USB_CFG_DSC_REQUIRED)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	151;"	d	line:151
+USB_CFG_DSC_REQUIRED::0x80	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	149;"	d	line:149
+USB_CFG_DSC_SELF_PWR::(0x40|USB_CFG_DSC_REQUIRED)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	150;"	d	line:150
+USB_CONFIGURATION_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	146;"	t	line:146
+USB_DATA0::0x00|USB_FORCE_DTS	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	224;"	d	line:224
+USB_DATA1::0x20|USB_FORCE_DTS	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	225;"	d	line:225
+USB_DESCRIPTOR_CONFIGURATION::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	94;"	d	line:94
+USB_DESCRIPTOR_DEVICE::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	93;"	d	line:93
+USB_DESCRIPTOR_DEVICE_QUALIFIER::0x06	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	98;"	d	line:98
+USB_DESCRIPTOR_ENDPOINT::0x05	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	97;"	d	line:97
+USB_DESCRIPTOR_INTERFACE::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	96;"	d	line:96
+USB_DESCRIPTOR_INTERFACE_POWER::0x08	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	100;"	d	line:100
+USB_DESCRIPTOR_OTG::0x09	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	101;"	d	line:101
+USB_DESCRIPTOR_OTHER_SPEED::0x07	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	99;"	d	line:99
+USB_DESCRIPTOR_STRING::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	95;"	d	line:95
+USB_DEVICE_ATTACHED::(USB_DEVICE_STATUS|0x30)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	133;"	d	line:133
+USB_DEVICE_C	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	83;"	d	line:83	file:
+USB_DEVICE_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	126;"	t	line:126
+USB_DEVICE_DETACHED::(USB_DEVICE_STATUS|0x01)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	134;"	d	line:134
+USB_DEVICE_ENUMERATING::(USB_DEVICE_STATUS|0x02)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	135;"	d	line:135
+USB_DEVICE_QUALIFIER_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	291;"	t	line:291
+USB_DEVICE_STATUS::0x30	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	132;"	d	line:132
+USB_DEVICE_SUSPENDED::(USB_DEVICE_STATUS|0x0A)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	143;"	d	line:143
+USB_DISALLOW_SETUP::0x08	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	480;"	d	line:480
+USB_DISALLOW_SETUP::0x10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	501;"	d	line:501
+USB_DOT_VER::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb.h	139;"	d	line:139
+USB_DTS_MASK::0x20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	222;"	d	line:222
+USB_ENABLE_ALL_HANDLERS	E:\DAQ projekt\PIC18\include\usb_config.h	112;"	d	line:112
+USB_ENABLE_EP0_DATA_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1674;"	d	line:1674
+USB_ENABLE_ERROR_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1670;"	d	line:1670
+USB_ENABLE_INIT_EP_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1673;"	d	line:1673
+USB_ENABLE_OTHER_REQUEST_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1671;"	d	line:1671
+USB_ENABLE_SET_DESCRIPTOR_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1672;"	d	line:1672
+USB_ENABLE_SOF_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1669;"	d	line:1669
+USB_ENABLE_SUSPEND_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1667;"	d	line:1667
+USB_ENABLE_TRANSFER_COMPLETE_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1675;"	d	line:1675
+USB_ENABLE_WAKEUP_FROM_SUSPEND_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1668;"	d	line:1668
+USB_ENDPOINT_BUSY::0x10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	110;"	d	line:110
+USB_ENDPOINT_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	190;"	t	line:190
+USB_ENDPOINT_ERROR::0x12	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	112;"	d	line:112
+USB_ENDPOINT_ERROR_BIT_STUFF::0x20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	120;"	d	line:120
+USB_ENDPOINT_ERROR_BMX::0x27	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	127;"	d	line:127
+USB_ENDPOINT_ERROR_CRC16::0x24	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	124;"	d	line:124
+USB_ENDPOINT_ERROR_DATA_FIELD::0x23	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	123;"	d	line:123
+USB_ENDPOINT_ERROR_DMA::0x21	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	121;"	d	line:121
+USB_ENDPOINT_ERROR_END_OF_FRAME::0x25	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	125;"	d	line:125
+USB_ENDPOINT_ERROR_ILLEGAL_PID::0x13	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	113;"	d	line:113
+USB_ENDPOINT_ERROR_PID_CHECK::0x26	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	126;"	d	line:126
+USB_ENDPOINT_ERROR_TIMEOUT::0x22	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	122;"	d	line:122
+USB_ENDPOINT_ILLEGAL_DIRECTION::0x15	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	115;"	d	line:115
+USB_ENDPOINT_ILLEGAL_TYPE::0x18	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	118;"	d	line:118
+USB_ENDPOINT_NAK_TIMEOUT::0x17	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	117;"	d	line:117
+USB_ENDPOINT_NOT_FOUND::0x14	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	114;"	d	line:114
+USB_ENDPOINT_STALLED::0x11	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	111;"	d	line:111
+USB_ENDPOINT_UNRESOLVED_STATE::0x19	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	119;"	d	line:119
+USB_EP0::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	196;"	d	line:196
+USB_EP0_BUFF_SIZE::8	E:\DAQ projekt\PIC18\include\usb_config.h	56;"	d	line:56
+USB_EP0_BUSY::USB_INPIPES_BUSY	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	365;"	d	line:365
+USB_EP0_DATA_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1724;"	d	line:1724
+USB_EP0_DATA_HANDLER::USB_EP0_DATA_HANDLER_FUNC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1722;"	d	line:1722
+USB_EP0_DATA_HANDLER_FUNC::(event,pointer,size)USBCBEP0Da	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1742;"	d	line:1742
+USB_EP0_DATA_HANDLER_FUNC::(event,pointer,size)USER_USB_C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1752;"	d	line:1752
+USB_EP0_INCLUDE_ZERO::USB_INPIPES_INCLUDE_ZERO	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	366;"	d	line:366
+USB_EP0_NO_DATA::USB_INPIPES_NO_DATA	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	367;"	d	line:367
+USB_EP0_NO_OPTIONS::USB_INPIPES_NO_OPTIONS	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	368;"	d	line:368
+USB_EP0_RAM::USB_INPIPES_RAM	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	364;"	d	line:364
+USB_EP0_ROM::USB_INPIPES_ROM	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	363;"	d	line:363
+USB_EP10::10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	206;"	d	line:206
+USB_EP11::11	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	207;"	d	line:207
+USB_EP12::12	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	208;"	d	line:208
+USB_EP13::13	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	209;"	d	line:209
+USB_EP14::14	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	210;"	d	line:210
+USB_EP15::15	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	211;"	d	line:211
+USB_EP1::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	197;"	d	line:197
+USB_EP2::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	198;"	d	line:198
+USB_EP3::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	199;"	d	line:199
+USB_EP4::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	200;"	d	line:200
+USB_EP5::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	201;"	d	line:201
+USB_EP6::6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	202;"	d	line:202
+USB_EP7::7	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	203;"	d	line:203
+USB_EP8::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	204;"	d	line:204
+USB_EP9::9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	205;"	d	line:205
+USB_EP_NUM_MASK::0x0F	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	229;"	d	line:229
+USB_ERROR_CLASS_DEFINED::0x50	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	145;"	d	line:145
+USB_ERROR_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1700;"	d	line:1700
+USB_ERROR_HANDLER::USB_ERROR_HANDLER_FUNC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1698;"	d	line:1698
+USB_ERROR_HANDLER_FUNC::(event,pointer,size)USBCBError	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1738;"	d	line:1738
+USB_ERROR_HANDLER_FUNC::(event,pointer,size)USER_USB_C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1748;"	d	line:1748
+USB_ERROR_INSUFFICIENT_POWER::0x28	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	128;"	d	line:128
+USB_ERROR_INTERRUPT::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	172;"	d	line:172
+USB_ERROR_INTERRUPT::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	174;"	d	line:174
+USB_EVENT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	377;"	t	line:377
+USB_EVENT_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	465;"	t	line:465
+USB_EVENT_QUEUE_FULL::0x08	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	109;"	d	line:109
+USB_EXTERNAL_TRANSCEIVER::0x08	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	393;"	d	line:393
+USB_FEATURE_DEVICE_REMOTE_WAKEUP::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	386;"	d	line:386
+USB_FEATURE_DEVICE_REMOTE_WAKEUP::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	416;"	d	line:416
+USB_FEATURE_ENDPOINT_HALT::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	385;"	d	line:385
+USB_FEATURE_ENDPOINT_STALL::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	415;"	d	line:415
+USB_FEATURE_TEST_MODE::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	387;"	d	line:387
+USB_FEATURE_TEST_MODE::2	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	417;"	d	line:417
+USB_FORCE_DTS::0x40	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	221;"	d	line:221
+USB_FULL_SPEED::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	395;"	d	line:395
+USB_HAL_ALLOW_HUB::0x8000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	605;"	d	line:605
+USB_HAL_DEV_CONN_FULL_SPD::USB_HAL_PULL_UP_D_PLUS	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	191;"	d	line:191
+USB_HAL_DEV_CONN_LOW_SPD::USB_HAL_PULL_UP_D_MINUS	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	192;"	d	line:192
+USB_HAL_DEV_DISCONNECT::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	193;"	d	line:193
+USB_HAL_HANDSHAKE::0x0100	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	599;"	d	line:599
+USB_HAL_HANDSHAKE::0x1000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	592;"	d	line:592
+USB_HAL_HW_KEEPS::0x0020	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	595;"	d	line:595
+USB_HAL_NO_INC::0x0010	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	594;"	d	line:594
+USB_HAL_NO_RETRY::0x4000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	606;"	d	line:606
+USB_HAL_PIC18_H	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	99;"	d	line:99
+USB_HAL_PULL_DN_D_MINUS::0x10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	187;"	d	line:187
+USB_HAL_PULL_DN_D_PLUS::0x20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	186;"	d	line:186
+USB_HAL_PULL_UP_D_MINUS::0x40	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	185;"	d	line:185
+USB_HAL_PULL_UP_D_PLUS::0x80	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	184;"	d	line:184
+USB_HAL_RECEIVE::0x0200	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	591;"	d	line:591
+USB_HAL_RECEIVE::0x0800	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	598;"	d	line:598
+USB_HAL_TRANSMIT::0x0400	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	590;"	d	line:590
+USB_HAL_TRANSMIT::0x0400	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	597;"	d	line:597
+USB_HANDLE::void*	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	296;"	d	line:296
+USB_HANDSHAKE_DISABLED::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	471;"	d	line:471
+USB_HANDSHAKE_DISABLED::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	492;"	d	line:492
+USB_HANDSHAKE_ENABLED::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	491;"	d	line:491
+USB_HANDSHAKE_ENABLED::0x10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	470;"	d	line:470
+USB_HOLDING_CLIENT_INIT_ERROR::(USB_DEVICE_STATUS|0x09)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	142;"	d	line:142
+USB_HOLDING_INVALID_CONFIGURATION::(USB_DEVICE_STATUS|0x06)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	139;"	d	line:139
+USB_HOLDING_OUT_OF_MEMORY::(USB_DEVICE_STATUS|0x03)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	136;"	d	line:136
+USB_HOLDING_POWER_REQUIREMENT::(USB_DEVICE_STATUS|0x08)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	141;"	d	line:141
+USB_HOLDING_PROCESSING_CAPACITY::(USB_DEVICE_STATUS|0x07)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	140;"	d	line:140
+USB_HOLDING_UNSUPPORTED_DEVICE::(USB_DEVICE_STATUS|0x04)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	137;"	d	line:137
+USB_HOLDING_UNSUPPORTED_HUB::(USB_DEVICE_STATUS|0x05)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	138;"	d	line:138
+USB_HUB_CLASSCODE::0x09	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	421;"	d	line:421
+USB_ILLEGAL_REQUEST::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	104;"	d	line:104
+USB_INIT_EP_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1718;"	d	line:1718
+USB_INIT_EP_HANDLER::USB_INIT_EP_HANDLER_FUNC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1716;"	d	line:1716
+USB_INIT_EP_HANDLER_FUNC::(event,pointer,size)USBCBInitE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1741;"	d	line:1741
+USB_INIT_EP_HANDLER_FUNC::(event,pointer,size)USER_USB_C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1751;"	d	line:1751
+USB_INPIPES_BUSY::0x80	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	358;"	d	line:358
+USB_INPIPES_INCLUDE_ZERO::0x40	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	359;"	d	line:359
+USB_INPIPES_NO_DATA::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	360;"	d	line:360
+USB_INPIPES_NO_OPTIONS::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	361;"	d	line:361
+USB_INPIPES_RAM::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	357;"	d	line:357
+USB_INPIPES_ROM::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	356;"	d	line:356
+USB_INTERFACE_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	172;"	t	line:172
+USB_INTERNAL_TRANSCEIVER::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	392;"	d	line:392
+USB_INTERRUPT	E:\DAQ projekt\PIC18\include\usb_config.h	86;"	d	line:86
+USB_INVALID_CONFIGURATION::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	105;"	d	line:105
+USB_INVALID_STATE::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	102;"	d	line:102
+USB_IN_DISABLED::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	477;"	d	line:477
+USB_IN_DISABLED::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	498;"	d	line:498
+USB_IN_ENABLED::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	476;"	d	line:476
+USB_IN_ENABLED::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	497;"	d	line:497
+USB_IN_EP::0x80	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	368;"	d	line:368
+USB_ISR_PRIORITY::1	E:\DAQ projekt\PIC18\include\usb_config.h	92;"	d	line:92
+USB_In_Buffer	E:\DAQ projekt\PIC18\common\piccolo_usb.c	23;"	v	line:23
+USB_LOW_SPEED::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	396;"	d	line:396
+USB_MAJOR_VER::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb.h	137;"	d	line:137
+USB_MAX_EP_NUMBER::3	E:\DAQ projekt\PIC18\include\usb_config.h	127;"	d	line:127
+USB_MAX_NUM_INT::1	E:\DAQ projekt\PIC18\include\usb_config.h	63;"	d	line:63
+USB_MEMORY_ALLOCATION_ERROR::0x05	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	106;"	d	line:106
+USB_MINOR_VER::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb.h	138;"	d	line:138
+USB_NEXT_EP0_IN_PING_PONG::0x0000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1783;"	d	line:1783
+USB_NEXT_EP0_IN_PING_PONG::0x0000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1856;"	d	line:1856
+USB_NEXT_EP0_IN_PING_PONG::0x0000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2015;"	d	line:2015
+USB_NEXT_EP0_IN_PING_PONG::0x0004	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1929;"	d	line:1929
+USB_NEXT_EP0_IN_PING_PONG::0x0008	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1933;"	d	line:1933
+USB_NEXT_EP0_OUT_PING_PONG::0x0000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1782;"	d	line:1782
+USB_NEXT_EP0_OUT_PING_PONG::0x0000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2014;"	d	line:2014
+USB_NEXT_EP0_OUT_PING_PONG::0x0004	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1855;"	d	line:1855
+USB_NEXT_EP0_OUT_PING_PONG::0x0004	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1928;"	d	line:1928
+USB_NEXT_EP0_OUT_PING_PONG::0x0008	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1932;"	d	line:1932
+USB_NEXT_PING_PONG::0x0000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1784;"	d	line:1784
+USB_NEXT_PING_PONG::0x0000	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1857;"	d	line:1857
+USB_NEXT_PING_PONG::0x0004	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1930;"	d	line:1930
+USB_NEXT_PING_PONG::0x0004	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	2016;"	d	line:2016
+USB_NEXT_PING_PONG::0x0008	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1934;"	d	line:1934
+USB_NUM_STRING_DESCRIPTORS::3	E:\DAQ projekt\PIC18\include\usb_config.h	109;"	d	line:109
+USB_OTG_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	241;"	t	line:241
+USB_OTHER_REQUEST_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1706;"	d	line:1706
+USB_OTHER_REQUEST_HANDLER::USB_OTHER_REQUEST_HANDLER_FUNC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1704;"	d	line:1704
+USB_OTHER_REQUEST_HANDLER_FUNC::(event,pointer,size)USBCBCheck	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1739;"	d	line:1739
+USB_OTHER_REQUEST_HANDLER_FUNC::(event,pointer,size)USER_USB_C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1749;"	d	line:1749
+USB_OUT_DISABLED::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	474;"	d	line:474
+USB_OUT_DISABLED::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	495;"	d	line:495
+USB_OUT_ENABLED::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	473;"	d	line:473
+USB_OUT_ENABLED::0x08	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	494;"	d	line:494
+USB_OUT_EP::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	369;"	d	line:369
+USB_Out_Buffer	E:\DAQ projekt\PIC18\common\piccolo_usb.c	24;"	v	line:24
+USB_PING_PONG_MODE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1776;"	d	line:1776
+USB_PING_PONG_MODE::USB_PING_PONG__FULL_PING_PONG	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1777;"	d	line:1777
+USB_PING_PONG_MODE::USB_PING_PONG__FULL_PING_PONG	E:\DAQ projekt\PIC18\include\usb_config.h	79;"	d	line:79
+USB_PING_PONG__ALL_BUT_EP0::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1770;"	d	line:1770
+USB_PING_PONG__EP0_OUT_ONLY::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1768;"	d	line:1768
+USB_PING_PONG__FULL_PING_PONG::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1769;"	d	line:1769
+USB_PING_PONG__NO_PING_PONG::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1767;"	d	line:1767
+USB_POLLING	E:\DAQ projekt\PIC18\include\usb_config.h	88;"	d	line:88
+USB_PULLUP_DISABLED::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	390;"	d	line:390
+USB_PULLUP_ENABLE::0x10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	389;"	d	line:389
+USB_PULLUP_OPTION::USB_PULLUP_ENABLE	E:\DAQ projekt\PIC18\include\usb_config.h	95;"	d	line:95
+USB_RECEIVE::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	220;"	d	line:220
+USB_REQUEST_CLEAR_FEATURE::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	374;"	d	line:374
+USB_REQUEST_GET_CONFIGURATION::8	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	379;"	d	line:379
+USB_REQUEST_GET_DESCRIPTOR::6	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	377;"	d	line:377
+USB_REQUEST_GET_INTERFACE::10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	381;"	d	line:381
+USB_REQUEST_GET_STATUS::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	373;"	d	line:373
+USB_REQUEST_SET_ADDRESS::5	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	376;"	d	line:376
+USB_REQUEST_SET_CONFIGURATION::9	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	380;"	d	line:380
+USB_REQUEST_SET_DESCRIPTOR::7	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	378;"	d	line:378
+USB_REQUEST_SET_FEATURE::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	375;"	d	line:375
+USB_REQUEST_SET_INTERFACE::11	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	382;"	d	line:382
+USB_REQUEST_SYNCH_FRAME::12	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	383;"	d	line:383
+USB_SD_Ptr	E:\DAQ projekt\PIC18\common\usb_descriptors.c	318;"	v	line:318
+USB_SETUP_DATA::USB_DATA1|USB_ZERO_PKT|USB_EP0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	227;"	d	line:227
+USB_SETUP_DEVICE_TO_HOST::0x80	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	392;"	d	line:392
+USB_SETUP_HOST_TO_DEVICE::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	391;"	d	line:391
+USB_SETUP_PKT::USB_RECEIVE|USB_DATA0|USB_EP0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	226;"	d	line:226
+USB_SETUP_RECIPIENT_DEVICE::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	396;"	d	line:396
+USB_SETUP_RECIPIENT_ENDPOINT::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	398;"	d	line:398
+USB_SETUP_RECIPIENT_INTERFACE::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	397;"	d	line:397
+USB_SETUP_RECIPIENT_OTHER::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	399;"	d	line:399
+USB_SETUP_STATUS::USB_DATA1|USB_EP0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	228;"	d	line:228
+USB_SETUP_TYPE_CLASS::0x20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	394;"	d	line:394
+USB_SETUP_TYPE_STANDARD::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	393;"	d	line:393
+USB_SETUP_TYPE_VENDOR::0x40	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	395;"	d	line:395
+USB_SET_DESCRIPTOR_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1712;"	d	line:1712
+USB_SET_DESCRIPTOR_HANDLER::USB_SET_DESCRIPTOR_HANDLER_FUN	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1710;"	d	line:1710
+USB_SET_DESCRIPTOR_HANDLER_FUNC::(event,pointer,size)USBCBStdSe	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1740;"	d	line:1740
+USB_SET_DESCRIPTOR_HANDLER_FUNC::(event,pointer,size)USER_USB_C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1750;"	d	line:1750
+USB_SINGLE_DEVICE_ADDRESS::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	147;"	d	line:147
+USB_SOF_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1694;"	d	line:1694
+USB_SOF_HANDLER::USB_SOF_HANDLER_FUNC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1692;"	d	line:1692
+USB_SOF_HANDLER_FUNC::(event,pointer,size)USBCB_SOF_	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1737;"	d	line:1737
+USB_SOF_HANDLER_FUNC::(event,pointer,size)USER_USB_C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1747;"	d	line:1747
+USB_SOF_INTERRUPT::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	168;"	d	line:168
+USB_SOF_INTERRUPT::0x40	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	165;"	d	line:165
+USB_SPEED_OPTION::USB_FULL_SPEED	E:\DAQ projekt\PIC18\include\usb_config.h	104;"	d	line:104
+USB_STALL_ENDPOINT::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	482;"	d	line:482
+USB_STALL_ENDPOINT::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	503;"	d	line:503
+USB_STRING_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	265;"	t	line:265
+USB_SUCCESS::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	101;"	d	line:101
+USB_SUPPORT_DEVICE	E:\DAQ projekt\PIC18\include\usb_config.h	107;"	d	line:107
+USB_SUSPEND_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1682;"	d	line:1682
+USB_SUSPEND_HANDLER::USB_SUSPEND_HANDLER_FUNC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1680;"	d	line:1680
+USB_SUSPEND_HANDLER_FUNC::(event,pointer,size)USBCBSuspe	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1735;"	d	line:1735
+USB_SUSPEND_HANDLER_FUNC::(event,pointer,size)USER_USB_C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1745;"	d	line:1745
+USB_TOKEN_IN::0x09	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	357;"	d	line:357
+USB_TOKEN_OUT::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	356;"	d	line:356
+USB_TOKEN_SETUP::0x0D	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	358;"	d	line:358
+USB_TRANSCEIVER_OPTION::USB_INTERNAL_TRANSCEIVER	E:\DAQ projekt\PIC18\include\usb_config.h	98;"	d	line:98
+USB_TRANSFER_EVENT_DATA	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	395;"	t	line:395
+USB_TRANSFER_TYPE_BULK::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	411;"	d	line:411
+USB_TRANSFER_TYPE_CONTROL::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	409;"	d	line:409
+USB_TRANSFER_TYPE_INTERRUPT::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	412;"	d	line:412
+USB_TRANSFER_TYPE_ISOCHRONOUS::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	410;"	d	line:410
+USB_TRANSMIT::0x80	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	219;"	d	line:219
+USB_TRASFER_COMPLETE_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1730;"	d	line:1730
+USB_TRASFER_COMPLETE_HANDLER::USB_TRASFER_COMPLETE_HANDLER_F	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1728;"	d	line:1728
+USB_TRASFER_COMPLETE_HANDLER_FUNC::(event,pointer,size)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1743;"	d	line:1743
+USB_TRASFER_COMPLETE_HANDLER_FUNC::(event,pointer,size)USER_USB_C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1753;"	d	line:1753
+USB_UNKNOWN_DEVICE::0x06	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	107;"	d	line:107
+USB_USER_CONFIG_DESCRIPTOR::USB_CD_Ptr	E:\DAQ projekt\PIC18\include\usb_config.h	73;"	d	line:73
+USB_USER_CONFIG_DESCRIPTOR_INCLUDE::externROMBYTE*ROMUSB_CD_Ptr[]	E:\DAQ projekt\PIC18\include\usb_config.h	74;"	d	line:74
+USB_USER_DEVICE_DESCRIPTOR::&device_dsc	E:\DAQ projekt\PIC18\include\usb_config.h	68;"	d	line:68
+USB_USER_DEVICE_DESCRIPTOR_INCLUDE::externROMUSB_DEVICE_DESCRIPTOR	E:\DAQ projekt\PIC18\include\usb_config.h	69;"	d	line:69
+USB_USE_CDC	E:\DAQ projekt\PIC18\include\usb_config.h	124;"	d	line:124
+USB_VBUS_CHARGE::1	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	254;"	d	line:254
+USB_VBUS_DISCHARGE::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	253;"	d	line:253
+USB_VBUS_POWER_EVENT_DATA	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	410;"	t	line:410
+USB_VBUS_POWER_OFF::4	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	256;"	d	line:256
+USB_VBUS_POWER_ON::3	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	255;"	d	line:255
+USB_VOLATILE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1762;"	d	line:1762
+USB_VOLATILE::volatile	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1764;"	d	line:1764
+USB_WAKEUP_FROM_SUSPEND_HANDLER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1688;"	d	line:1688
+USB_WAKEUP_FROM_SUSPEND_HANDLER::USB_WAKEUP_FROM_SUSPEND_HANDLE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1686;"	d	line:1686
+USB_WAKEUP_FROM_SUSPEND_HANDLER_FUNC::(event,pointer,size)USBCBWakeF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1736;"	d	line:1736
+USB_WAKEUP_FROM_SUSPEND_HANDLER_FUNC::(event,pointer,size)USER_USB_C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	1746;"	d	line:1746
+USB_ZERO_PKT::0x10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	223;"	d	line:223
+USER_USB_CALLBACK_EVENT_HANDLER	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	98;"	p	line:98	file:	signature:(USB_EVENT event, void *pdata, WORD size)
+USER_USB_CALLBACK_EVENT_HANDLER	E:\DAQ projekt\PIC18\common\piccolo_usb.c	733;"	f	line:733	signature:(USB_EVENT event, void *pdata, WORD size)
+USTAT_EP0_IN::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	342;"	d	line:342
+USTAT_EP0_IN_EVEN::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	343;"	d	line:343
+USTAT_EP0_IN_ODD::0x06	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	344;"	d	line:344
+USTAT_EP0_OUT::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	338;"	d	line:338
+USTAT_EP0_OUT_EVEN::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	339;"	d	line:339
+USTAT_EP0_OUT_ODD::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	340;"	d	line:340
+USTAT_EP0_PP_MASK::~0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	336;"	d	line:336
+USTAT_EP_MASK::0x7E	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	337;"	d	line:337
+USTATcopy	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	128;"	v	line:128
+UW	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	209;"	m	line:209	struct:_QWORD_VAL::<anonymous>
+V25TER::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	137;"	d	line:137
+VENDOR::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	571;"	d	line:571
+VOID	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	68;"	t	line:68
+Val	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	107;"	m	line:107	union:_WORD_VAL
+Val	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	137;"	m	line:137	union:_DWORD_VAL
+Val	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	196;"	m	line:196	union:_QWORD_VAL
+Val	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	91;"	m	line:91	union:_BYTE_VAL
+Val	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	325;"	m	line:325
+Val	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	349;"	m	line:349
+Val	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	268;"	m	line:268	union:_BD_STAT
+Val	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	315;"	m	line:315	union:__BDT
+WAIT_SETUP::0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	551;"	d	line:551
+WORD	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	59;"	t	line:59
+WORD_BITS	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	133;"	t	line:133
+WORD_VAL	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	133;"	t	line:133
+W_Index	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	204;"	m	line:204	struct:_CTRL_TRF_SETUP::<anonymous>
+W_Length	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	205;"	m	line:205	struct:_CTRL_TRF_SETUP::<anonymous>
+W_Value	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	203;"	m	line:203	struct:_CTRL_TRF_SETUP::<anonymous>
+XFLAGS::(f)((TRANSFER_FLAGS)((BYTE)(f)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	238;"	d	line:238
+_AD::(0x02<<2)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	167;"	d	line:167
+_AS::(0x01<<2)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	166;"	d	line:166
+_BD_STAT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	266;"	u	line:266
+_BOOL	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	48;"	g	line:48
+_BSTALL::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	253;"	d	line:253
+_BULK::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	157;"	d	line:157
+_BYTE_VAL	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	89;"	u	line:89
+_CDC_NOTICE	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	621;"	u	line:621
+_CONTROL_SIGNAL_BITMAP	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	570;"	u	line:570
+_CTRL::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	155;"	d	line:155
+_CTRL_TRF_SETUP	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	188;"	u	line:188
+_DAT0::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	257;"	d	line:257
+_DAT1::0x40	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	258;"	d	line:258
+_DE::(0x00<<4)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	171;"	d	line:171
+_DEFAULT::(0x01<<7)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	148;"	d	line:148
+_DTSEN::0x08	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	254;"	d	line:254
+_DTSMASK::0x40	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	259;"	d	line:259
+_DWORD_VAL	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	135;"	u	line:135
+_EP01_IN::0x81	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	117;"	d	line:117
+_EP01_OUT::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	116;"	d	line:116
+_EP02_IN::0x82	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	119;"	d	line:119
+_EP02_OUT::0x02	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	118;"	d	line:118
+_EP03_IN::0x83	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	121;"	d	line:121
+_EP03_OUT::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	120;"	d	line:120
+_EP04_IN::0x84	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	123;"	d	line:123
+_EP04_OUT::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	122;"	d	line:122
+_EP05_IN::0x85	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	125;"	d	line:125
+_EP05_OUT::0x05	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	124;"	d	line:124
+_EP06_IN::0x86	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	127;"	d	line:127
+_EP06_OUT::0x06	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	126;"	d	line:126
+_EP07_IN::0x87	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	129;"	d	line:129
+_EP07_OUT::0x07	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	128;"	d	line:128
+_EP08_IN::0x88	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	131;"	d	line:131
+_EP08_OUT::0x08	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	130;"	d	line:130
+_EP09_IN::0x89	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	133;"	d	line:133
+_EP09_OUT::0x09	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	132;"	d	line:132
+_EP10_IN::0x8A	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	135;"	d	line:135
+_EP10_OUT::0x0A	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	134;"	d	line:134
+_EP11_IN::0x8B	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	137;"	d	line:137
+_EP11_OUT::0x0B	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	136;"	d	line:136
+_EP12_IN::0x8C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	139;"	d	line:139
+_EP12_OUT::0x0C	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	138;"	d	line:138
+_EP13_IN::0x8D	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	141;"	d	line:141
+_EP13_OUT::0x0D	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	140;"	d	line:140
+_EP14_IN::0x8E	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	143;"	d	line:143
+_EP14_OUT::0x0E	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	142;"	d	line:142
+_EP15_IN::0x8F	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	145;"	d	line:145
+_EP15_OUT::0x0F	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	144;"	d	line:144
+_EP_IN::0x80	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	114;"	d	line:114
+_EP_OUT::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	115;"	d	line:115
+_FE::(0x01<<4)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	172;"	d	line:172
+_FS::0x04	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	382;"	d	line:382
+_HNP::(0x01<<1)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	151;"	d	line:151
+_IE::(0x02<<4)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	173;"	d	line:173
+_INCDIS::0x10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	255;"	d	line:255
+_INT::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	161;"	d	line:161
+_INTERRUPT::0x03	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	159;"	d	line:159
+_ISO::0x01	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	156;"	d	line:156
+_KEN::0x20	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	256;"	d	line:256
+_LINE_CODING	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	555;"	u	line:555
+_LS::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	381;"	d	line:381
+_NS::(0x00<<2)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	165;"	d	line:165
+_OEMON::0x40	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	386;"	d	line:386
+_POINTER	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	355;"	u	line:355
+_PUEN::0x10	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	385;"	d	line:385
+_QWORD_VAL	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	194;"	u	line:194
+_RAM::USB_INPIPES_RAM	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	176;"	d	line:176
+_ROM::USB_INPIPES_ROM	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	175;"	d	line:175
+_RWU::(0x01<<5)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	150;"	d	line:150
+_SELF::(0x01<<6)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	149;"	d	line:149
+_SRP::(0x01)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	152;"	d	line:152
+_STAT_MASK::0xFF	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	263;"	d	line:263
+_SY::(0x03<<2)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	168;"	d	line:168
+_TREXT::0x08	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	384;"	d	line:384
+_TRINT::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	383;"	d	line:383
+_UCPU::0x00	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	261;"	d	line:261
+_UEP	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	349;"	t	line:349
+_USB_CDC_ACM_FN_DSC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	593;"	s	line:593
+_USB_CDC_CALL_MGT_FN_DSC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	612;"	s	line:612
+_USB_CDC_HEADER_FN_DSC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	584;"	s	line:584
+_USB_CDC_UNION_FN_DSC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	602;"	s	line:602
+_USB_CH9_H_	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	83;"	d	line:83
+_USB_COMMON_H_	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	85;"	d	line:85
+_USB_CONFIGURATION_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	136;"	s	line:136
+_USB_DEVICE_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	110;"	s	line:110
+_USB_DEVICE_QUALIFIER_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	279;"	s	line:279
+_USB_ENDPOINT_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	182;"	s	line:182
+_USB_HAL_H_	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal.h	87;"	d	line:87
+_USB_H_	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb.h	102;"	d	line:102
+_USB_INTERFACE_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	161;"	s	line:161
+_USB_OTG_DESCRIPTOR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	236;"	s	line:236
+_USB_STRING_DSC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	260;"	s	line:260
+_USIE::0x80	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	260;"	d	line:260
+_WORD_VAL	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	105;"	u	line:105
+__18CXX	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	59;"	d	line:59
+__BDT	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	300;"	u	line:300
+__C32__	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	78;"	d	line:78
+__COMPILER_H	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	53;"	d	line:53
+__GENERIC_TYPE_DEFS_H_	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	46;"	d	line:46
+__USB_DESCRIPTORS_C	E:\DAQ projekt\PIC18\common\usb_descriptors.c	154;"	d	line:154	file:
+__attribute__::(a)	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	125;"	d	line:125
+_byte	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	559;"	m	line:559	struct:_LINE_CODING::<anonymous>
+_byte	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	572;"	m	line:572	union:_CONTROL_SIGNAL_BITMAP
+_reset	E:\DAQ projekt\PIC18\include\piccolo_all.h	119;"	f	line:119	signature:(void)
+_startup	E:\DAQ projekt\PIC18\include\piccolo_all.h	114;"	p	line:114	signature:(void)
+_transfer_event_data	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	389;"	s	line:389
+_union16	E:\DAQ projekt\PIC18\include\piccolo_config.h	92;"	u	line:92
+_union32	E:\DAQ projekt\PIC18\include\piccolo_config.h	101;"	u	line:101
+_user_putc	E:\DAQ projekt\PIC18\common\piccolo_usb.c	39;"	p	line:39	file:	signature:(char c)
+_user_putc	E:\DAQ projekt\PIC18\common\piccolo_usb.c	56;"	f	line:56	signature:(char c)
+_user_putc	E:\DAQ projekt\PIC18\include\piccolo_usb.h	42;"	p	line:42	signature:(char c)
+_vbus_power_data	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	406;"	s	line:406
+_word	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	363;"	m	line:363	union:_POINTER
+adcchannel	E:\DAQ projekt\PIC18\usb\cdc-demo.c	28;"	v	line:28
+alacsony_szint	E:\DAQ projekt\PIC18\usb\cdc-demo.c	29;"	v	line:29
+b0	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	116;"	m	line:116	struct:_WORD_VAL::<anonymous>
+b0	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	159;"	m	line:159	struct:_DWORD_VAL::<anonymous>
+b0	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	214;"	m	line:214	struct:_QWORD_VAL::<anonymous>
+b0	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	94;"	m	line:94	struct:_BYTE_VAL::<anonymous>
+b1	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	117;"	m	line:117	struct:_WORD_VAL::<anonymous>
+b1	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	160;"	m	line:160	struct:_DWORD_VAL::<anonymous>
+b1	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	215;"	m	line:215	struct:_QWORD_VAL::<anonymous>
+b1	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	95;"	m	line:95	struct:_BYTE_VAL::<anonymous>
+b10	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	126;"	m	line:126	struct:_WORD_VAL::<anonymous>
+b10	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	169;"	m	line:169	struct:_DWORD_VAL::<anonymous>
+b10	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	224;"	m	line:224	struct:_QWORD_VAL::<anonymous>
+b11	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	127;"	m	line:127	struct:_WORD_VAL::<anonymous>
+b11	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	170;"	m	line:170	struct:_DWORD_VAL::<anonymous>
+b11	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	225;"	m	line:225	struct:_QWORD_VAL::<anonymous>
+b12	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	128;"	m	line:128	struct:_WORD_VAL::<anonymous>
+b12	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	171;"	m	line:171	struct:_DWORD_VAL::<anonymous>
+b12	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	226;"	m	line:226	struct:_QWORD_VAL::<anonymous>
+b13	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	129;"	m	line:129	struct:_WORD_VAL::<anonymous>
+b13	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	172;"	m	line:172	struct:_DWORD_VAL::<anonymous>
+b13	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	227;"	m	line:227	struct:_QWORD_VAL::<anonymous>
+b14	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	130;"	m	line:130	struct:_WORD_VAL::<anonymous>
+b14	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	173;"	m	line:173	struct:_DWORD_VAL::<anonymous>
+b14	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	228;"	m	line:228	struct:_QWORD_VAL::<anonymous>
+b15	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	131;"	m	line:131	struct:_WORD_VAL::<anonymous>
+b15	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	174;"	m	line:174	struct:_DWORD_VAL::<anonymous>
+b15	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	229;"	m	line:229	struct:_QWORD_VAL::<anonymous>
+b16	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	175;"	m	line:175	struct:_DWORD_VAL::<anonymous>
+b16	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	230;"	m	line:230	struct:_QWORD_VAL::<anonymous>
+b17	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	176;"	m	line:176	struct:_DWORD_VAL::<anonymous>
+b17	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	231;"	m	line:231	struct:_QWORD_VAL::<anonymous>
+b18	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	177;"	m	line:177	struct:_DWORD_VAL::<anonymous>
+b18	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	232;"	m	line:232	struct:_QWORD_VAL::<anonymous>
+b19	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	178;"	m	line:178	struct:_DWORD_VAL::<anonymous>
+b19	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	233;"	m	line:233	struct:_QWORD_VAL::<anonymous>
+b2	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	118;"	m	line:118	struct:_WORD_VAL::<anonymous>
+b2	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	161;"	m	line:161	struct:_DWORD_VAL::<anonymous>
+b2	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	216;"	m	line:216	struct:_QWORD_VAL::<anonymous>
+b2	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	96;"	m	line:96	struct:_BYTE_VAL::<anonymous>
+b20	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	179;"	m	line:179	struct:_DWORD_VAL::<anonymous>
+b20	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	234;"	m	line:234	struct:_QWORD_VAL::<anonymous>
+b21	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	180;"	m	line:180	struct:_DWORD_VAL::<anonymous>
+b21	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	235;"	m	line:235	struct:_QWORD_VAL::<anonymous>
+b22	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	181;"	m	line:181	struct:_DWORD_VAL::<anonymous>
+b22	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	236;"	m	line:236	struct:_QWORD_VAL::<anonymous>
+b23	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	182;"	m	line:182	struct:_DWORD_VAL::<anonymous>
+b23	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	237;"	m	line:237	struct:_QWORD_VAL::<anonymous>
+b24	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	183;"	m	line:183	struct:_DWORD_VAL::<anonymous>
+b24	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	238;"	m	line:238	struct:_QWORD_VAL::<anonymous>
+b25	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	184;"	m	line:184	struct:_DWORD_VAL::<anonymous>
+b25	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	239;"	m	line:239	struct:_QWORD_VAL::<anonymous>
+b26	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	185;"	m	line:185	struct:_DWORD_VAL::<anonymous>
+b26	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	240;"	m	line:240	struct:_QWORD_VAL::<anonymous>
+b27	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	186;"	m	line:186	struct:_DWORD_VAL::<anonymous>
+b27	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	241;"	m	line:241	struct:_QWORD_VAL::<anonymous>
+b28	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	187;"	m	line:187	struct:_DWORD_VAL::<anonymous>
+b28	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	242;"	m	line:242	struct:_QWORD_VAL::<anonymous>
+b29	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	188;"	m	line:188	struct:_DWORD_VAL::<anonymous>
+b29	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	243;"	m	line:243	struct:_QWORD_VAL::<anonymous>
+b3	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	119;"	m	line:119	struct:_WORD_VAL::<anonymous>
+b3	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	162;"	m	line:162	struct:_DWORD_VAL::<anonymous>
+b3	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	217;"	m	line:217	struct:_QWORD_VAL::<anonymous>
+b3	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	97;"	m	line:97	struct:_BYTE_VAL::<anonymous>
+b30	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	189;"	m	line:189	struct:_DWORD_VAL::<anonymous>
+b30	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	244;"	m	line:244	struct:_QWORD_VAL::<anonymous>
+b31	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	190;"	m	line:190	struct:_DWORD_VAL::<anonymous>
+b31	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	245;"	m	line:245	struct:_QWORD_VAL::<anonymous>
+b32	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	246;"	m	line:246	struct:_QWORD_VAL::<anonymous>
+b33	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	247;"	m	line:247	struct:_QWORD_VAL::<anonymous>
+b34	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	248;"	m	line:248	struct:_QWORD_VAL::<anonymous>
+b35	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	249;"	m	line:249	struct:_QWORD_VAL::<anonymous>
+b36	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	250;"	m	line:250	struct:_QWORD_VAL::<anonymous>
+b37	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	251;"	m	line:251	struct:_QWORD_VAL::<anonymous>
+b38	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	252;"	m	line:252	struct:_QWORD_VAL::<anonymous>
+b39	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	253;"	m	line:253	struct:_QWORD_VAL::<anonymous>
+b4	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	120;"	m	line:120	struct:_WORD_VAL::<anonymous>
+b4	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	163;"	m	line:163	struct:_DWORD_VAL::<anonymous>
+b4	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	218;"	m	line:218	struct:_QWORD_VAL::<anonymous>
+b4	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	98;"	m	line:98	struct:_BYTE_VAL::<anonymous>
+b40	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	254;"	m	line:254	struct:_QWORD_VAL::<anonymous>
+b41	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	255;"	m	line:255	struct:_QWORD_VAL::<anonymous>
+b42	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	256;"	m	line:256	struct:_QWORD_VAL::<anonymous>
+b43	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	257;"	m	line:257	struct:_QWORD_VAL::<anonymous>
+b44	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	258;"	m	line:258	struct:_QWORD_VAL::<anonymous>
+b45	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	259;"	m	line:259	struct:_QWORD_VAL::<anonymous>
+b46	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	260;"	m	line:260	struct:_QWORD_VAL::<anonymous>
+b47	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	261;"	m	line:261	struct:_QWORD_VAL::<anonymous>
+b48	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	262;"	m	line:262	struct:_QWORD_VAL::<anonymous>
+b49	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	263;"	m	line:263	struct:_QWORD_VAL::<anonymous>
+b5	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	121;"	m	line:121	struct:_WORD_VAL::<anonymous>
+b5	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	164;"	m	line:164	struct:_DWORD_VAL::<anonymous>
+b5	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	219;"	m	line:219	struct:_QWORD_VAL::<anonymous>
+b5	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	99;"	m	line:99	struct:_BYTE_VAL::<anonymous>
+b50	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	264;"	m	line:264	struct:_QWORD_VAL::<anonymous>
+b51	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	265;"	m	line:265	struct:_QWORD_VAL::<anonymous>
+b52	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	266;"	m	line:266	struct:_QWORD_VAL::<anonymous>
+b53	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	267;"	m	line:267	struct:_QWORD_VAL::<anonymous>
+b54	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	268;"	m	line:268	struct:_QWORD_VAL::<anonymous>
+b55	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	269;"	m	line:269	struct:_QWORD_VAL::<anonymous>
+b56	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	270;"	m	line:270	struct:_QWORD_VAL::<anonymous>
+b57	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	271;"	m	line:271	struct:_QWORD_VAL::<anonymous>
+b58	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	272;"	m	line:272	struct:_QWORD_VAL::<anonymous>
+b59	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	273;"	m	line:273	struct:_QWORD_VAL::<anonymous>
+b6	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	100;"	m	line:100	struct:_BYTE_VAL::<anonymous>
+b6	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	122;"	m	line:122	struct:_WORD_VAL::<anonymous>
+b6	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	165;"	m	line:165	struct:_DWORD_VAL::<anonymous>
+b6	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	220;"	m	line:220	struct:_QWORD_VAL::<anonymous>
+b60	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	274;"	m	line:274	struct:_QWORD_VAL::<anonymous>
+b61	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	275;"	m	line:275	struct:_QWORD_VAL::<anonymous>
+b62	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	276;"	m	line:276	struct:_QWORD_VAL::<anonymous>
+b63	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	277;"	m	line:277	struct:_QWORD_VAL::<anonymous>
+b7	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	101;"	m	line:101	struct:_BYTE_VAL::<anonymous>
+b7	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	123;"	m	line:123	struct:_WORD_VAL::<anonymous>
+b7	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	166;"	m	line:166	struct:_DWORD_VAL::<anonymous>
+b7	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	221;"	m	line:221	struct:_QWORD_VAL::<anonymous>
+b8	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	124;"	m	line:124	struct:_WORD_VAL::<anonymous>
+b8	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	167;"	m	line:167	struct:_DWORD_VAL::<anonymous>
+b8	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	222;"	m	line:222	struct:_QWORD_VAL::<anonymous>
+b9	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	125;"	m	line:125	struct:_WORD_VAL::<anonymous>
+b9	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	168;"	m	line:168	struct:_DWORD_VAL::<anonymous>
+b9	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	223;"	m	line:223	struct:_QWORD_VAL::<anonymous>
+bAltID	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	256;"	m	line:256	struct:_CTRL_TRF_SETUP::<anonymous>
+bAltID_H	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	257;"	m	line:257	struct:_CTRL_TRF_SETUP::<anonymous>
+bAlternateSetting	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	166;"	m	line:166	struct:_USB_INTERFACE_DESCRIPTOR
+bCfgRSD	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	246;"	m	line:246	struct:_CTRL_TRF_SETUP::<anonymous>
+bCharFormat	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	564;"	m	line:564	struct:_LINE_CODING::<anonymous>
+bConfigurationValue	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	142;"	m	line:142	struct:_USB_CONFIGURATION_DESCRIPTOR
+bConfigurationValue	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	245;"	m	line:245	struct:_CTRL_TRF_SETUP::<anonymous>
+bDataBits	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	566;"	m	line:566	struct:_LINE_CODING::<anonymous>
+bDataInterface	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	618;"	m	line:618	struct:_USB_CDC_CALL_MGT_FN_DSC
+bDescriptorType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	113;"	m	line:113	struct:_USB_DEVICE_DESCRIPTOR
+bDescriptorType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	139;"	m	line:139	struct:_USB_CONFIGURATION_DESCRIPTOR
+bDescriptorType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	164;"	m	line:164	struct:_USB_INTERFACE_DESCRIPTOR
+bDescriptorType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	185;"	m	line:185	struct:_USB_ENDPOINT_DESCRIPTOR
+bDescriptorType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	239;"	m	line:239	struct:_USB_OTG_DESCRIPTOR
+bDescriptorType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	263;"	m	line:263	struct:_USB_STRING_DSC
+bDescriptorType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	225;"	m	line:225	struct:_CTRL_TRF_SETUP::<anonymous>
+bDevADR	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	234;"	m	line:234	struct:_CTRL_TRF_SETUP::<anonymous>
+bDevADRH	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	235;"	m	line:235	struct:_CTRL_TRF_SETUP::<anonymous>
+bDeviceClass	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	115;"	m	line:115	struct:_USB_DEVICE_DESCRIPTOR
+bDeviceClass	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	284;"	m	line:284	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bDeviceProtocol	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	117;"	m	line:117	struct:_USB_DEVICE_DESCRIPTOR
+bDeviceProtocol	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	286;"	m	line:286	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bDeviceSubClass	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	116;"	m	line:116	struct:_USB_DEVICE_DESCRIPTOR
+bDeviceSubClass	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	285;"	m	line:285	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bDscIndex	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	224;"	m	line:224	struct:_CTRL_TRF_SETUP::<anonymous>
+bDscSubType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	588;"	m	line:588	struct:_USB_CDC_HEADER_FN_DSC
+bDscSubType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	597;"	m	line:597	struct:_USB_CDC_ACM_FN_DSC
+bDscSubType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	606;"	m	line:606	struct:_USB_CDC_UNION_FN_DSC
+bDscSubType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	616;"	m	line:616	struct:_USB_CDC_CALL_MGT_FN_DSC
+bDscType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	587;"	m	line:587	struct:_USB_CDC_HEADER_FN_DSC
+bDscType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	596;"	m	line:596	struct:_USB_CDC_ACM_FN_DSC
+bDscType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	605;"	m	line:605	struct:_USB_CDC_UNION_FN_DSC
+bDscType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	615;"	m	line:615	struct:_USB_CDC_CALL_MGT_FN_DSC
+bDscType	E:\DAQ projekt\PIC18\common\usb_descriptors.c	278;"	m	line:278	file:
+bDscType	E:\DAQ projekt\PIC18\common\usb_descriptors.c	289;"	m	line:289	file:
+bDscType	E:\DAQ projekt\PIC18\common\usb_descriptors.c	303;"	m	line:303	file:
+bEPID	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	269;"	m	line:269	struct:_CTRL_TRF_SETUP::<anonymous>
+bEPID_H	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	270;"	m	line:270	struct:_CTRL_TRF_SETUP::<anonymous>
+bEndpointAddress	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	186;"	m	line:186	struct:_USB_ENDPOINT_DESCRIPTOR
+bFNLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	586;"	m	line:586	struct:_USB_CDC_HEADER_FN_DSC
+bFNLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	595;"	m	line:595	struct:_USB_CDC_ACM_FN_DSC
+bFNLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	604;"	m	line:604	struct:_USB_CDC_UNION_FN_DSC
+bFNLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	614;"	m	line:614	struct:_USB_CDC_CALL_MGT_FN_DSC
+bFeature	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	213;"	m	line:213	struct:_CTRL_TRF_SETUP::<anonymous>
+bHigh	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	360;"	m	line:360	struct:_POINTER::<anonymous>
+bInterfaceClass	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	168;"	m	line:168	struct:_USB_INTERFACE_DESCRIPTOR
+bInterfaceNumber	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	165;"	m	line:165	struct:_USB_INTERFACE_DESCRIPTOR
+bInterfaceProtocol	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	170;"	m	line:170	struct:_USB_INTERFACE_DESCRIPTOR
+bInterfaceSubClass	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	169;"	m	line:169	struct:_USB_INTERFACE_DESCRIPTOR
+bInterval	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	189;"	m	line:189	struct:_USB_ENDPOINT_DESCRIPTOR
+bIntfID	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	258;"	m	line:258	struct:_CTRL_TRF_SETUP::<anonymous>
+bIntfID_H	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	259;"	m	line:259	struct:_CTRL_TRF_SETUP::<anonymous>
+bLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	112;"	m	line:112	struct:_USB_DEVICE_DESCRIPTOR
+bLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	138;"	m	line:138	struct:_USB_CONFIGURATION_DESCRIPTOR
+bLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	163;"	m	line:163	struct:_USB_INTERFACE_DESCRIPTOR
+bLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	184;"	m	line:184	struct:_USB_ENDPOINT_DESCRIPTOR
+bLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	238;"	m	line:238	struct:_USB_OTG_DESCRIPTOR
+bLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	262;"	m	line:262	struct:_USB_STRING_DSC
+bLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	281;"	m	line:281	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bLength	E:\DAQ projekt\PIC18\common\usb_descriptors.c	277;"	m	line:277	file:
+bLength	E:\DAQ projekt\PIC18\common\usb_descriptors.c	288;"	m	line:288	file:
+bLength	E:\DAQ projekt\PIC18\common\usb_descriptors.c	302;"	m	line:302	file:
+bLow	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	359;"	m	line:359	struct:_POINTER::<anonymous>
+bMasterIntf	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	607;"	m	line:607	struct:_USB_CDC_UNION_FN_DSC
+bMaxPacketSize0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	118;"	m	line:118	struct:_USB_DEVICE_DESCRIPTOR
+bMaxPacketSize0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	287;"	m	line:287	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bMaxPower	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	145;"	m	line:145	struct:_USB_CONFIGURATION_DESCRIPTOR
+bNumConfigurations	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	125;"	m	line:125	struct:_USB_DEVICE_DESCRIPTOR
+bNumConfigurations	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	288;"	m	line:288	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bNumEndpoints	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	167;"	m	line:167	struct:_USB_INTERFACE_DESCRIPTOR
+bNumInterfaces	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	141;"	m	line:141	struct:_USB_CONFIGURATION_DESCRIPTOR
+bParityType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	565;"	m	line:565	struct:_LINE_CODING::<anonymous>
+bRam	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	307;"	m	line:307
+bRam	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	338;"	m	line:338
+bRam	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	367;"	m	line:367	union:_POINTER
+bRequest	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	317;"	m	line:317	struct:SetupPkt
+bRequest	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	194;"	m	line:194	struct:_CTRL_TRF_SETUP::<anonymous>
+bReserved	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	289;"	m	line:289	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bRom	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	308;"	m	line:308
+bRom	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	372;"	m	line:372	union:_POINTER
+bSaveIntf0	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	608;"	m	line:608	struct:_USB_CDC_UNION_FN_DSC
+bType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	282;"	m	line:282	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bcdCDC	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	589;"	m	line:589	struct:_USB_CDC_HEADER_FN_DSC
+bcdDevice	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	121;"	m	line:121	struct:_USB_DEVICE_DESCRIPTOR
+bcdUSB	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	114;"	m	line:114	struct:_USB_DEVICE_DESCRIPTOR
+bcdUSB	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	283;"	m	line:283	struct:_USB_DEVICE_QUALIFIER_DESCRIPTOR
+bitmap	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	177;"	m	line:177
+bits	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	102;"	m	line:102	union:_BYTE_VAL
+bits	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	132;"	m	line:132	union:_WORD_VAL
+bits	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	191;"	m	line:191	union:_DWORD_VAL
+bits	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	278;"	m	line:278	union:_QWORD_VAL
+bits	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	324;"	m	line:324
+bits	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	348;"	m	line:348
+bmAttributes	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	144;"	m	line:144	struct:_USB_CONFIGURATION_DESCRIPTOR
+bmAttributes	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	187;"	m	line:187	struct:_USB_ENDPOINT_DESCRIPTOR
+bmAttributes	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	240;"	m	line:240	struct:_USB_OTG_DESCRIPTOR
+bmCapabilities	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	598;"	m	line:598	struct:_USB_CDC_ACM_FN_DSC
+bmCapabilities	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	617;"	m	line:617	struct:_USB_CDC_CALL_MGT_FN_DSC
+bmRequestType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	308;"	m	line:308	union:SetupPkt::<anonymous>
+bmRequestType	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	193;"	m	line:193	struct:_CTRL_TRF_SETUP::<anonymous>
+busy	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	323;"	m	line:323
+busy	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	347;"	m	line:347
+byte	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	113;"	m	line:113	union:_WORD_VAL
+byte	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	151;"	m	line:151	union:_DWORD_VAL
+byte	E:\DAQ projekt\PIC18\include\piccolo_config.h	107;"	m	line:107	union:_union32
+byteToRead	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1704;"	l	line:1704
+byteToSend	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1609;"	l	line:1609
+byte_to_send	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	703;"	l	line:703
+c	E:\DAQ projekt\PIC18\common\piccolo_usb.c	127;"	l	line:127
+c	E:\DAQ projekt\PIC18\common\piccolo_usb.c	149;"	l	line:149
+c	E:\DAQ projekt\PIC18\common\piccolo_usb.c	170;"	l	line:170
+c	E:\DAQ projekt\PIC18\common\piccolo_usb.c	72;"	l	line:72
+cdc_data_rx	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	109;"	v	line:109
+cdc_data_tx	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	110;"	v	line:110
+cdc_mem_type	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	120;"	v	line:120
+cdc_notice	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	108;"	v	line:108
+cdc_rx_len	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	114;"	v	line:114
+cdc_trf_state	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	116;"	v	line:116
+cdc_tx_len	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	119;"	v	line:119
+configDescriptor1	E:\DAQ projekt\PIC18\common\usb_descriptors.c	188;"	v	line:188
+configccp	E:\DAQ projekt\PIC18\usb\cdc-demo.c	31;"	v	line:31
+controlTransferState	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	123;"	v	line:123
+control_signal_bitmap	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	126;"	v	line:126
+ctrl_trf_mem	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	317;"	m	line:317
+current	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	409;"	m	line:409	struct:_vbus_power_data
+d	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	197;"	m	line:197	union:_QWORD_VAL
+data	E:\DAQ projekt\PIC18\usb\cdc-demo.c	28;"	v	line:28
+delay_count	E:\DAQ projekt\PIC18\common\piccolo_usb.c	687;"	l	line:687	file:
+delay_ms	E:\DAQ projekt\PIC18\common\piccolo_usb.c	190;"	f	line:190	signature:(unsigned int d)
+delay_ms	E:\DAQ projekt\PIC18\common\piccolo_usb.c	46;"	p	line:46	file:	signature:(unsigned int d)
+delay_ms	E:\DAQ projekt\PIC18\include\piccolo_usb.h	50;"	p	line:50	signature:(unsigned int d)
+device_dsc	E:\DAQ projekt\PIC18\common\usb_descriptors.c	169;"	v	line:169
+direction	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	313;"	m	line:313	struct:SetupPkt::<anonymous>::<anonymous>
+direction	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	184;"	m	line:184
+dts	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	182;"	m	line:182
+dummy_encapsulated_cmd_response	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	138;"	v	line:138
+dummy_length::0x08	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	137;"	d	line:137	file:
+dutycycle	E:\DAQ projekt\PIC18\usb\cdc-demo.c	29;"	v	line:29
+dwDTERate	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	563;"	m	line:563	struct:_LINE_CODING::<anonymous>
+dword	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	204;"	m	line:204	union:_QWORD_VAL
+dword	E:\DAQ projekt\PIC18\include\piccolo_config.h	102;"	m	line:102	union:_union32
+ep_num	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	180;"	m	line:180
+far	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	158;"	d	line:158
+field	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	185;"	m	line:185
+flag	E:\DAQ projekt\PIC18\usb\cdc-demo.c	30;"	v	line:30
+flags	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	391;"	m	line:391	struct:_transfer_event_data
+force_dts	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	183;"	m	line:183
+frekvencia	E:\DAQ projekt\PIC18\usb\cdc-demo.c	29;"	v	line:29
+get2hex	E:\DAQ projekt\PIC18\common\piccolo_usb.c	168;"	f	line:168	signature:(void)
+get2hex	E:\DAQ projekt\PIC18\common\piccolo_usb.c	45;"	p	line:45	file:	signature:(void)
+get2hex	E:\DAQ projekt\PIC18\include\piccolo_usb.h	49;"	p	line:49	signature:(void)
+get4hex	E:\DAQ projekt\PIC18\common\piccolo_usb.c	125;"	f	line:125	signature:(void)
+get4hex	E:\DAQ projekt\PIC18\common\piccolo_usb.c	44;"	p	line:44	file:	signature:(void)
+get4hex	E:\DAQ projekt\PIC18\include\piccolo_usb.h	48;"	p	line:48	signature:(void)
+getsUSBUSART	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	643;"	p	line:643	signature:(char *buffer, BYTE len)
+getsUSBUSART	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	356;"	f	line:356	signature:(char *buffer, BYTE len)
+handle	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1830;"	l	line:1830
+handle	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	2018;"	l	line:2018
+hi_byte	E:\DAQ projekt\PIC18\include\piccolo_config.h	96;"	m	line:96	struct:_union16::<anonymous>
+hi_isr	E:\DAQ projekt\PIC18\include\piccolo_all.h	93;"	p	line:93	signature:(void)
+hi_isr	E:\DAQ projekt\PIC18\usb\cdc-demo.c	43;"	f	line:43
+hi_word	E:\DAQ projekt\PIC18\include\piccolo_config.h	105;"	m	line:105	struct:_union32::<anonymous>
+hid_report_in	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	175;"	v	line:175
+hid_report_out	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	174;"	v	line:174
+high	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	155;"	m	line:155	struct:_DWORD_VAL::<anonymous>
+i	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	704;"	l	line:704
+i	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1705;"	l	line:1705
+i	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	223;"	l	line:223
+i	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	330;"	l	line:330
+i	E:\DAQ projekt\PIC18\common\piccolo_usb.c	105;"	l	line:105
+i	E:\DAQ projekt\PIC18\common\piccolo_usb.c	127;"	l	line:127
+i	E:\DAQ projekt\PIC18\common\piccolo_usb.c	170;"	l	line:170
+i	E:\DAQ projekt\PIC18\common\piccolo_usb.c	191;"	l	line:191
+iConfiguration	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	143;"	m	line:143	struct:_USB_CONFIGURATION_DESCRIPTOR
+iInterface	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	171;"	m	line:171	struct:_USB_INTERFACE_DESCRIPTOR
+iManufacturer	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	122;"	m	line:122	struct:_USB_DEVICE_DESCRIPTOR
+iProduct	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	123;"	m	line:123	struct:_USB_DEVICE_DESCRIPTOR
+iSerialNumber	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	124;"	m	line:124	struct:_USB_DEVICE_DESCRIPTOR
+idProduct	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	120;"	m	line:120	struct:_USB_DEVICE_DESCRIPTOR
+idVendor	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	119;"	m	line:119	struct:_USB_DEVICE_DESCRIPTOR
+inPipes	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	124;"	v	line:124
+includeZero	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	321;"	m	line:321
+info	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	326;"	m	line:326
+info	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	350;"	m	line:350
+inputvalue	E:\DAQ projekt\PIC18\usb\cdc-demo.c	28;"	v	line:28
+int16	E:\DAQ projekt\PIC18\include\piccolo_config.h	88;"	t	line:88
+int32	E:\DAQ projekt\PIC18\include\piccolo_config.h	89;"	t	line:89
+int8	E:\DAQ projekt\PIC18\include\piccolo_config.h	87;"	t	line:87
+j	E:\DAQ projekt\PIC18\common\piccolo_usb.c	191;"	l	line:191
+lastDTS	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	993;"	l	line:993
+led_count	E:\DAQ projekt\PIC18\common\piccolo_usb.c	319;"	l	line:319	file:
+len	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	502;"	l	line:502
+len	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	599;"	l	line:599
+line_coding	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	111;"	v	line:111
+lo_byte	E:\DAQ projekt\PIC18\include\piccolo_config.h	95;"	m	line:95	struct:_union16::<anonymous>
+lo_isr	E:\DAQ projekt\PIC18\include\piccolo_all.h	94;"	p	line:94	signature:(void)
+lo_isr	E:\DAQ projekt\PIC18\usb\cdc-demo.c	51;"	f	line:51
+lo_word	E:\DAQ projekt\PIC18\include\piccolo_config.h	104;"	m	line:104	struct:_union32::<anonymous>
+low	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	154;"	m	line:154	struct:_DWORD_VAL::<anonymous>
+mGetLED_1::mLED_1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	95;"	d	line:95
+mGetLED_2::mLED_2	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	96;"	d	line:96
+mGetLED_3::mLED_3	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	97;"	d	line:97
+mGetLED_4::mLED_4	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	98;"	d	line:98
+mInitAllLEDs::LATC&=0xF0;TRISC&=0xF0;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	89;"	d	line:89
+mInitPOT::{TRISBbits.TRISB4=1;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	228;"	d	line:228
+mInitSwitch1::	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	116;"	d	line:116
+mLED_1::LATCbits.LATC0	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	90;"	d	line:90
+mLED_1_Off::mLED_1=0;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	105;"	d	line:105
+mLED_1_On::mLED_1=1;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	100;"	d	line:100
+mLED_1_Toggle::mLED_1=!mLED_1;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	110;"	d	line:110
+mLED_2::LATCbits.LATC1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	91;"	d	line:91
+mLED_2_Off::mLED_2=0;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	106;"	d	line:106
+mLED_2_On::mLED_2=1;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	101;"	d	line:101
+mLED_2_Toggle::mLED_2=!mLED_2;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	111;"	d	line:111
+mLED_3::LATCbits.LATC2	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	92;"	d	line:92
+mLED_3_Off::mLED_3=0;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	107;"	d	line:107
+mLED_3_On::mLED_3=1;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	102;"	d	line:102
+mLED_3_Toggle::mLED_3=!mLED_3;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	112;"	d	line:112
+mLED_4::LATCbits.LATC3	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	93;"	d	line:93
+mLED_4_Off::mLED_4=0;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	108;"	d	line:108
+mLED_4_On::mLED_4=1;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	103;"	d	line:103
+mLED_4_Toggle::mLED_4=!mLED_4;	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	113;"	d	line:113
+mLED_Both_Off::{mLED_1_Off;mLED_2_Off;}	E:\DAQ projekt\PIC18\common\piccolo_usb.c	324;"	d	line:324	file:
+mLED_Both_On::{mLED_1_On;mLED_2_On;}	E:\DAQ projekt\PIC18\common\piccolo_usb.c	325;"	d	line:325	file:
+mLED_Only_1_On::{mLED_1_On;mLED_2_Off;}	E:\DAQ projekt\PIC18\common\piccolo_usb.c	326;"	d	line:326	file:
+mLED_Only_2_On::{mLED_1_Off;mLED_2_On;}	E:\DAQ projekt\PIC18\common\piccolo_usb.c	327;"	d	line:327	file:
+mUSBUSARTIsTxTrfReady::USBUSARTIsTxTrfReady	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	471;"	d	line:471
+mUSBUSARTTxRam::(pData,len)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	509;"	d	line:509
+mUSBUSARTTxRom::(pData,len)	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	548;"	d	line:548
+magas_szint	E:\DAQ projekt\PIC18\usb\cdc-demo.c	29;"	v	line:29
+main	E:\DAQ projekt\PIC18\usb\cdc-demo.c	65;"	f	line:65	signature:(void)
+memcmppgm2ram::(a,b,c)memcmp(a,b,c)	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	110;"	d	line:110
+memcpypgm2ram::(a,b,c)memcpy(a,b,c)	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	112;"	d	line:112
+meres	E:\DAQ projekt\PIC18\usb\cdc-demo.c	29;"	v	line:29
+msd_buffer	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	187;"	v	line:187
+msd_cbw	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	180;"	v	line:180
+msd_csw	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	181;"	v	line:181
+numBytesRead	E:\DAQ projekt\PIC18\common\piccolo_usb.c	25;"	v	line:25
+numBytesToSend	E:\DAQ projekt\PIC18\common\piccolo_usb.c	26;"	v	line:26
+out4hex	E:\DAQ projekt\PIC18\common\piccolo_usb.c	147;"	f	line:147	signature:(unsigned int t)
+out4hex	E:\DAQ projekt\PIC18\common\piccolo_usb.c	43;"	p	line:43	file:	signature:(unsigned int t)
+out4hex	E:\DAQ projekt\PIC18\include\piccolo_usb.h	47;"	p	line:47	signature:(unsigned int t)
+outPipes	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	125;"	v	line:125
+outString	E:\DAQ projekt\PIC18\common\piccolo_usb.c	40;"	p	line:40	file:	signature:(const rom char* psz_s)
+outString	E:\DAQ projekt\PIC18\common\piccolo_usb.c	70;"	f	line:70	signature:(const rom char* psz_s)
+outString	E:\DAQ projekt\PIC18\include\piccolo_usb.h	44;"	p	line:44	signature:(const rom char* psz_s)
+outdec	E:\DAQ projekt\PIC18\common\piccolo_usb.c	103;"	f	line:103	signature:(long data, unsigned int ndigits)
+outdec	E:\DAQ projekt\PIC18\common\piccolo_usb.c	42;"	p	line:42	file:	signature:(long data, unsigned int ndigits)
+outdec	E:\DAQ projekt\PIC18\include\piccolo_usb.h	46;"	p	line:46	signature:(long data, unsigned int ndigits)
+p	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1074;"	l	line:1074
+p	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1176;"	l	line:1176
+p	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1407;"	l	line:1407
+p	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1921;"	l	line:1921
+p	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1960;"	l	line:1960
+pBDTEntryEP0OutCurrent	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	118;"	v	line:118
+pBDTEntryEP0OutNext	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	119;"	v	line:119
+pBDTEntryIn	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	121;"	v	line:121
+pBDTEntryOut	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	120;"	v	line:120
+pCDCDst	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	118;"	v	line:118
+pCDCSrc	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	117;"	v	line:117
+pData	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	503;"	l	line:503
+pData	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	600;"	l	line:600
+pDst	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	340;"	m	line:340
+pDst	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	126;"	v	line:126
+pFunc	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	352;"	m	line:352
+pFunc	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1087;"	p	line:1087	file:
+pFunc	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1756;"	p	line:1756	file:
+pSrc	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	311;"	m	line:311
+pUEP	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1178;"	l	line:1178
+pUEP	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	1180;"	l	line:1180
+packet	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	625;"	m	line:625	union:_CDC_NOTICE
+periodus	E:\DAQ projekt\PIC18\usb\cdc-demo.c	28;"	v	line:28
+persistent	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	157;"	d	line:157
+pid	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	393;"	m	line:393	struct:_transfer_event_data
+port	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	408;"	m	line:408	struct:_vbus_power_data
+putUSBUSART	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	645;"	p	line:645	signature:(char *data, BYTE Length)
+putUSBUSART	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	427;"	f	line:427	signature:(char *data, BYTE length)
+putrsUSBUSART	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	644;"	p	line:644	signature:(const ROM char *data)
+putrsUSBUSART	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	597;"	f	line:597	signature:(const ROM char *data)
+putsUSBUSART	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_function_cdc.h	646;"	p	line:646	signature:(char *data)
+putsUSBUSART	E:\DAQ projekt\PIC18\Microchip\USB\CDC Device Driver\usb_function_cdc.c	500;"	f	line:500	signature:(char *data)
+recipient	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	311;"	m	line:311	struct:SetupPkt::<anonymous>::<anonymous>
+report	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	532;"	m	line:532
+requestInfo	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	315;"	m	line:315	struct:SetupPkt
+reserved	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	318;"	m	line:318
+reserved	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	345;"	m	line:345
+rom	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	138;"	d	line:138
+s	E:\DAQ projekt\PIC18\common\piccolo_usb.c	104;"	l	line:104	file:
+sd000	E:\DAQ projekt\PIC18\common\usb_descriptors.c	280;"	v	line:280
+sd001	E:\DAQ projekt\PIC18\common\usb_descriptors.c	291;"	v	line:291
+sd002	E:\DAQ projekt\PIC18\common\usb_descriptors.c	305;"	v	line:305
+self_power::1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	66;"	d	line:66
+self_power::PORTAbits.RA2	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	64;"	d	line:64
+setup_cnt	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	827;"	l	line:827
+shortPacketStatus	E:\DAQ projekt\PIC18\Microchip\USB\usb_device.c	122;"	v	line:122
+sign	E:\DAQ projekt\PIC18\common\piccolo_usb.c	104;"	l	line:104	file:
+size	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	392;"	m	line:392	struct:_transfer_event_data
+slew	E:\DAQ projekt\PIC18\usb\cdc-demo.c	28;"	v	line:28
+status	E:\DAQ projekt\PIC18\usb\cdc-demo.c	28;"	v	line:28
+strcatpgm2ram::(a,b)strcat(a,b)	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	118;"	d	line:118
+strchrpgm::(a,b)strchr(a,b)	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	117;"	d	line:117
+strcmppgm2ram::(a,b)strcmp(a,b)	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	111;"	d	line:111
+strcpypgm2ram::(a,b)strcpy(a,b)	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	113;"	d	line:113
+strcpypgm2ram::(a,b)strcpypgm2ram(a,(farromch	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	132;"	d	line:132
+string	E:\DAQ projekt\PIC18\common\usb_descriptors.c	279;"	m	line:279	file:
+string	E:\DAQ projekt\PIC18\common\usb_descriptors.c	290;"	m	line:290	file:
+string	E:\DAQ projekt\PIC18\common\usb_descriptors.c	304;"	m	line:304	file:
+strlenpgm::(a)strlen(a)	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	116;"	d	line:116
+strncpypgm2ram::(a,b,c)strncpy(a,b,c)	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	114;"	d	line:114
+strstrrampgm::(a,b)strstr(a,b)	E:\DAQ projekt\PIC18\Microchip\Include\Compiler.h	115;"	d	line:115
+sw2::PORTAbits.RA3	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	118;"	d	line:118
+sync_mode	E:\DAQ projekt\PIC18\usb\cdc-demo.c	28;"	v	line:28
+t	E:\DAQ projekt\PIC18\common\piccolo_usb.c	128;"	l	line:128
+t	E:\DAQ projekt\PIC18\common\piccolo_usb.c	171;"	l	line:171
+timer_value	E:\DAQ projekt\PIC18\usb\cdc-demo.c	32;"	v	line:32
+tris_self_power::TRISAbits.TRISA2	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	62;"	d	line:62
+tris_usb_bus_sense::TRISAbits.TRISA1	E:\DAQ projekt\PIC18\include\piccolo-14k50.h	73;"	d	line:73
+type	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	312;"	m	line:312	struct:SetupPkt::<anonymous>::<anonymous>
+uc	E:\DAQ projekt\PIC18\usb\cdc-demo.c	30;"	v	line:30
+uint16	E:\DAQ projekt\PIC18\include\piccolo_config.h	85;"	t	line:85
+uint32	E:\DAQ projekt\PIC18\include\piccolo_config.h	86;"	t	line:86
+uint8	E:\DAQ projekt\PIC18\include\piccolo_config.h	84;"	t	line:84
+union16	E:\DAQ projekt\PIC18\include\piccolo_config.h	98;"	t	line:98
+union32	E:\DAQ projekt\PIC18\include\piccolo_config.h	108;"	t	line:108
+usb_cdc_getc	E:\DAQ projekt\PIC18\common\piccolo_usb.c	41;"	p	line:41	file:	signature:(void)
+usb_cdc_getc	E:\DAQ projekt\PIC18\common\piccolo_usb.c	90;"	f	line:90	signature:(void)
+usb_cdc_getc	E:\DAQ projekt\PIC18\include\piccolo_usb.h	45;"	p	line:45	signature:(void)
+usb_cdc_kbhit::(Buffercp<numBytesRead)	E:\DAQ projekt\PIC18\include\piccolo_usb.h	51;"	d	line:51
+usb_cdc_putc::(c)_user_putc(c)	E:\DAQ projekt\PIC18\include\piccolo_usb.h	43;"	d	line:43
+uv	E:\DAQ projekt\PIC18\usb\cdc-demo.c	30;"	v	line:30
+v	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	108;"	m	line:108	union:_WORD_VAL
+v	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	139;"	m	line:139	union:_DWORD_VAL
+v	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	199;"	m	line:199	union:_QWORD_VAL
+v	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	316;"	m	line:316	union:__BDT
+w	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	138;"	m	line:138	union:_DWORD_VAL
+w	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	198;"	m	line:198	union:_QWORD_VAL
+w	E:\DAQ projekt\PIC18\common\piccolo_usb.c	400;"	l	line:400
+wCount	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	327;"	m	line:327
+wCount	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	351;"	m	line:351
+wIndex	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	319;"	m	line:319	struct:SetupPkt
+wIndex	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	196;"	m	line:196	struct:_CTRL_TRF_SETUP::<anonymous>
+wLangID	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	226;"	m	line:226	struct:_CTRL_TRF_SETUP::<anonymous>
+wLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	320;"	m	line:320	struct:SetupPkt
+wLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	197;"	m	line:197	struct:_CTRL_TRF_SETUP::<anonymous>
+wMaxPacketSize	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	188;"	m	line:188	struct:_USB_ENDPOINT_DESCRIPTOR
+wRam	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	309;"	m	line:309
+wRam	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	339;"	m	line:339
+wRam	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	369;"	m	line:369	union:_POINTER
+wRom	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	310;"	m	line:310
+wRom	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_hal_pic18.h	373;"	m	line:373	union:_POINTER
+wTotalLength	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	140;"	m	line:140	struct:_USB_CONFIGURATION_DESCRIPTOR
+wValue	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_ch9.h	318;"	m	line:318	struct:SetupPkt
+wValue	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_device.h	195;"	m	line:195	struct:_CTRL_TRF_SETUP::<anonymous>
+word	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	144;"	m	line:144	union:_DWORD_VAL
+word	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	211;"	m	line:211	union:_QWORD_VAL
+word	E:\DAQ projekt\PIC18\include\piccolo_config.h	93;"	m	line:93	union:_union16
+wordUnion	E:\DAQ projekt\PIC18\Microchip\Include\GenericTypeDefs.h	156;"	m	line:156	union:_DWORD_VAL
+zero_pkt	E:\DAQ projekt\PIC18\Microchip\Include\USB\usb_common.h	181;"	m	line:181
